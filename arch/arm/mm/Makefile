@@ -90,3 +90,6 @@ obj-$(CONFIG_CACHE_XSC3L2)	+= cache-xsc3l2.o
 
 obj-$(CONFIG_VCM)		+= vcm.o vcm_alloc.o
 obj-$(CONFIG_VCM_MM)		+= vcm_mm.o
+
+# Ignore warnings to prevent build breaks when using gcc 4.5.0
+CFLAGS_REMOVE_alignment.o = -Werror

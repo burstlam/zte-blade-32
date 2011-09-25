@@ -111,6 +111,10 @@ $(obj)/raid6altivec8.c:   UNROLL := 8
 $(obj)/raid6altivec8.c:   $(src)/raid6altivec.uc $(src)/unroll.awk FORCE
 	$(call if_changed,unroll)
 
+# Ignore warnings to prevent build breaks when using gcc 4.5.0
+CFLAGS_REMOVE_dm.o = -Werror
+CFLAGS_REMOVE_dm-table.o = -Werror
+
 quiet_cmd_mktable = TABLE   $@
       cmd_mktable = $(obj)/mktables > $@ || ( rm -f $@ && exit 1 )
 
