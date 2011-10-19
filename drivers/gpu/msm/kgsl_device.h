@@ -96,9 +96,10 @@ struct kgsl_functable {
 	int (*device_setstate) (struct kgsl_device *device, uint32_t flags);
 	int (*device_idle) (struct kgsl_device *device, unsigned int timeout);
 	int (*device_suspend) (struct kgsl_device *device);
+	int (*device_sleep) (struct kgsl_device *device, const int idle);
 	int (*device_wake) (struct kgsl_device *device);
-	int (*device_last_release_locked) (struct kgsl_device *device);
-	int (*device_first_open_locked) (struct kgsl_device *device);
+	int (*device_start) (struct kgsl_device *device);
+	int (*device_stop) (struct kgsl_device *device);
 	int (*device_getproperty) (struct kgsl_device *device,
 					enum kgsl_property_type type,
 					void *value,
@@ -146,6 +147,7 @@ struct kgsl_device {
 	struct kgsl_functable ftbl;
 	struct work_struct idle_check_ws;
 	struct timer_list idle_timer;
+	unsigned int interval_timeout;
 	atomic_t open_count;
 
 	struct atomic_notifier_head ts_notifier_list;
@@ -179,6 +181,8 @@ struct kgsl_devconfig {
 
 	struct kgsl_memregion gmemspace;
 };
+
+struct kgsl_device *kgsl_get_device(int dev_idx);
 
 static inline struct kgsl_mmu *
 kgsl_get_mmu(struct kgsl_device *device)
