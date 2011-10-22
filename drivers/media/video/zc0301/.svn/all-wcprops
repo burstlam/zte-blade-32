@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/drivers/media/video/zc0301
+END
+zc0301_pas202bcb.c
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/drivers/media/video/zc0301/zc0301_pas202bcb.c
+END
+zc0301_sensor.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/drivers/media/video/zc0301/zc0301_sensor.h
+END
+Kconfig
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/drivers/media/video/zc0301/Kconfig
+END
+zc0301.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/drivers/media/video/zc0301/zc0301.h
+END
+zc0301_pb0330.c
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/drivers/media/video/zc0301/zc0301_pb0330.c
+END
+zc0301_core.c
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/drivers/media/video/zc0301/zc0301_core.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/drivers/media/video/zc0301/Makefile
+END

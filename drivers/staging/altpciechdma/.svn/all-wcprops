@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/drivers/staging/altpciechdma
+END
+altpciechdma.c
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/drivers/staging/altpciechdma/altpciechdma.c
+END
+Kconfig
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/drivers/staging/altpciechdma/Kconfig
+END
+TODO
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/drivers/staging/altpciechdma/TODO
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/drivers/staging/altpciechdma/Makefile
+END

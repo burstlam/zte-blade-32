@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/drivers/usb/image
+END
+Kconfig
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/drivers/usb/image/Kconfig
+END
+microtek.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/drivers/usb/image/microtek.h
+END
+mdc800.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/drivers/usb/image/mdc800.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/drivers/usb/image/Makefile
+END
+microtek.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/drivers/usb/image/microtek.c
+END

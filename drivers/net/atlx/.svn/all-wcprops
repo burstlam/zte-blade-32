@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/drivers/net/atlx
+END
+atl1.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/drivers/net/atlx/atl1.c
+END
+atl2.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/drivers/net/atlx/atl2.c
+END
+atl1.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/drivers/net/atlx/atl1.h
+END
+atl2.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/drivers/net/atlx/atl2.h
+END
+atlx.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/drivers/net/atlx/atlx.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/drivers/net/atlx/Makefile
+END
+atlx.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/drivers/net/atlx/atlx.h
+END

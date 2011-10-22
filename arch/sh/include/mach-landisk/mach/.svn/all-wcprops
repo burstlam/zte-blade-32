@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/sh/include/mach-landisk/mach
+END
+gio.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/sh/include/mach-landisk/mach/gio.h
+END
+iodata_landisk.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/sh/include/mach-landisk/mach/iodata_landisk.h
+END

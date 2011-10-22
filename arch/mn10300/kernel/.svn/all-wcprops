@@ -1,0 +1,251 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/mn10300/kernel
+END
+kernel_execve.S
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/mn10300/kernel/kernel_execve.S
+END
+profile.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/mn10300/kernel/profile.c
+END
+setup.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/mn10300/kernel/setup.c
+END
+kthread.S
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/mn10300/kernel/kthread.S
+END
+sigframe.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/mn10300/kernel/sigframe.h
+END
+kprobes.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/mn10300/kernel/kprobes.c
+END
+gdb-stub.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/mn10300/kernel/gdb-stub.c
+END
+io.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/mn10300/kernel/io.c
+END
+fpu-low.S
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/mn10300/kernel/fpu-low.S
+END
+gdb-cache.S
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/mn10300/kernel/gdb-cache.S
+END
+process.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/mn10300/kernel/process.c
+END
+mn10300_ksyms.c
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/mn10300/kernel/mn10300_ksyms.c
+END
+asm-offsets.c
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/mn10300/kernel/asm-offsets.c
+END
+rtc.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/mn10300/kernel/rtc.c
+END
+mn10300-serial-low.S
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/mn10300/kernel/mn10300-serial-low.S
+END
+fpu.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/mn10300/kernel/fpu.c
+END
+irq.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/mn10300/kernel/irq.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/mn10300/kernel/Makefile
+END
+sys_mn10300.c
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/mn10300/kernel/sys_mn10300.c
+END
+gdb-io-serial-low.S
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/mn10300/kernel/gdb-io-serial-low.S
+END
+gdb-io-ttysm-low.S
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/mn10300/kernel/gdb-io-ttysm-low.S
+END
+time.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/mn10300/kernel/time.c
+END
+vmlinux.lds.S
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/mn10300/kernel/vmlinux.lds.S
+END
+mn10300-watchdog-low.S
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/mn10300/kernel/mn10300-watchdog-low.S
+END
+mn10300-serial.c
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/mn10300/kernel/mn10300-serial.c
+END
+gdb-low.S
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/mn10300/kernel/gdb-low.S
+END
+signal.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/mn10300/kernel/signal.c
+END
+ptrace.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/mn10300/kernel/ptrace.c
+END
+gdb-io-serial.c
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/mn10300/kernel/gdb-io-serial.c
+END
+profile-low.S
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/mn10300/kernel/profile-low.S
+END
+gdb-io-ttysm.c
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/mn10300/kernel/gdb-io-ttysm.c
+END
+mn10300-serial.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/mn10300/kernel/mn10300-serial.h
+END
+entry.S
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/mn10300/kernel/entry.S
+END
+head.S
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/mn10300/kernel/head.S
+END
+internal.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/mn10300/kernel/internal.h
+END
+mn10300-debug.c
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/mn10300/kernel/mn10300-debug.c
+END
+switch_to.S
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/mn10300/kernel/switch_to.S
+END
+module.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/mn10300/kernel/module.c
+END
+init_task.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/mn10300/kernel/init_task.c
+END
+traps.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/mn10300/kernel/traps.c
+END
+mn10300-watchdog.c
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/mn10300/kernel/mn10300-watchdog.c
+END

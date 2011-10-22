@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/firmware/edgeport
+END
+boot.H16
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/firmware/edgeport/boot.H16
+END
+boot2.H16
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/firmware/edgeport/boot2.H16
+END
+down.H16
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/firmware/edgeport/down.H16
+END
+down2.H16
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/firmware/edgeport/down2.H16
+END
+down3.bin.ihex
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/firmware/edgeport/down3.bin.ihex
+END

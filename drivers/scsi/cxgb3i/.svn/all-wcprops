@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/drivers/scsi/cxgb3i
+END
+cxgb3i_offload.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/drivers/scsi/cxgb3i/cxgb3i_offload.h
+END
+Kconfig
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/drivers/scsi/cxgb3i/Kconfig
+END
+cxgb3i_init.c
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/drivers/scsi/cxgb3i/cxgb3i_init.c
+END
+cxgb3i.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/drivers/scsi/cxgb3i/cxgb3i.h
+END
+cxgb3i_ddp.c
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/drivers/scsi/cxgb3i/cxgb3i_ddp.c
+END
+cxgb3i_pdu.c
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/drivers/scsi/cxgb3i/cxgb3i_pdu.c
+END
+Kbuild
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/drivers/scsi/cxgb3i/Kbuild
+END
+cxgb3i_iscsi.c
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/drivers/scsi/cxgb3i/cxgb3i_iscsi.c
+END
+cxgb3i_offload.c
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/drivers/scsi/cxgb3i/cxgb3i_offload.c
+END
+cxgb3i_ddp.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/drivers/scsi/cxgb3i/cxgb3i_ddp.h
+END
+cxgb3i_pdu.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/drivers/scsi/cxgb3i/cxgb3i_pdu.h
+END

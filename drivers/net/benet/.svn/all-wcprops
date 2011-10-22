@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/drivers/net/benet
+END
+Kconfig
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/drivers/net/benet/Kconfig
+END
+be_cmds.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/drivers/net/benet/be_cmds.h
+END
+be_ethtool.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/drivers/net/benet/be_ethtool.c
+END
+be_hw.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/drivers/net/benet/be_hw.h
+END
+be_main.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/drivers/net/benet/be_main.c
+END
+be.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/drivers/net/benet/be.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/drivers/net/benet/Makefile
+END
+be_cmds.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/drivers/net/benet/be_cmds.c
+END

@@ -1,0 +1,203 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/x86/lib
+END
+msr-smp.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/x86/lib/msr-smp.c
+END
+copy_page_64.S
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/x86/lib/copy_page_64.S
+END
+msr.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/x86/lib/msr.c
+END
+copy_user_64.S
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/x86/lib/copy_user_64.S
+END
+strstr_32.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/x86/lib/strstr_32.c
+END
+csum-copy_64.S
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/x86/lib/csum-copy_64.S
+END
+cmpxchg8b_emu.S
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/x86/lib/cmpxchg8b_emu.S
+END
+string_32.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/x86/lib/string_32.c
+END
+csum-partial_64.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/x86/lib/csum-partial_64.c
+END
+clear_page_64.S
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/x86/lib/clear_page_64.S
+END
+usercopy_32.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/x86/lib/usercopy_32.c
+END
+thunk_32.S
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/x86/lib/thunk_32.S
+END
+memmove_64.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/x86/lib/memmove_64.c
+END
+io_64.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/x86/lib/io_64.c
+END
+copy_user_nocache_64.S
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/x86/lib/copy_user_nocache_64.S
+END
+csum-wrappers_64.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/x86/lib/csum-wrappers_64.c
+END
+memset_64.S
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/x86/lib/memset_64.S
+END
+checksum_32.S
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/x86/lib/checksum_32.S
+END
+iomap_copy_64.S
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/x86/lib/iomap_copy_64.S
+END
+atomic64_32.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/x86/lib/atomic64_32.c
+END
+msr-reg.S
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/x86/lib/msr-reg.S
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/x86/lib/Makefile
+END
+delay.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/x86/lib/delay.c
+END
+getuser.S
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/x86/lib/getuser.S
+END
+memcpy_32.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/x86/lib/memcpy_32.c
+END
+mmx_32.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/x86/lib/mmx_32.c
+END
+semaphore_32.S
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/x86/lib/semaphore_32.S
+END
+thunk_64.S
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/x86/lib/thunk_64.S
+END
+usercopy_64.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/x86/lib/usercopy_64.c
+END
+memcpy_64.S
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/x86/lib/memcpy_64.S
+END
+putuser.S
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/x86/lib/putuser.S
+END
+rwlock_64.S
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/x86/lib/rwlock_64.S
+END
+msr-reg-export.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/x86/lib/msr-reg-export.c
+END

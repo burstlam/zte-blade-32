@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/firmware/advansys
+END
+3550.bin.ihex
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/firmware/advansys/3550.bin.ihex
+END
+38C1600.bin.ihex
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/firmware/advansys/38C1600.bin.ihex
+END
+38C0800.bin.ihex
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/firmware/advansys/38C0800.bin.ihex
+END
+mcode.bin.ihex
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/firmware/advansys/mcode.bin.ihex
+END

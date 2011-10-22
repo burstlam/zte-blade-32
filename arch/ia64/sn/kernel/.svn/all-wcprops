@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/ia64/sn/kernel
+END
+setup.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/ia64/sn/kernel/setup.c
+END
+mca.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/ia64/sn/kernel/mca.c
+END
+klconflib.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/ia64/sn/kernel/klconflib.c
+END
+machvec.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/ia64/sn/kernel/machvec.c
+END
+pio_phys.S
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/ia64/sn/kernel/pio_phys.S
+END
+iomv.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/ia64/sn/kernel/iomv.c
+END
+bte.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/ia64/sn/kernel/bte.c
+END
+idle.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/ia64/sn/kernel/idle.c
+END
+io_common.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/ia64/sn/kernel/io_common.c
+END
+bte_error.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/ia64/sn/kernel/bte_error.c
+END
+io_acpi_init.c
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/ia64/sn/kernel/io_acpi_init.c
+END
+tiocx.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/ia64/sn/kernel/tiocx.c
+END
+msi_sn.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/ia64/sn/kernel/msi_sn.c
+END
+huberror.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/ia64/sn/kernel/huberror.c
+END
+io_init.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/ia64/sn/kernel/io_init.c
+END
+irq.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/ia64/sn/kernel/irq.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/ia64/sn/kernel/Makefile
+END

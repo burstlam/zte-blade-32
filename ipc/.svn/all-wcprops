@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/ipc
+END
+mq_sysctl.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/ipc/mq_sysctl.c
+END
+compat_mq.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/ipc/compat_mq.c
+END
+mqueue.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/ipc/mqueue.c
+END
+util.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/ipc/util.h
+END
+compat.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/ipc/compat.c
+END
+msgutil.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/ipc/msgutil.c
+END
+sem.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/ipc/sem.c
+END
+msg.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/ipc/msg.c
+END
+shm.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/ipc/shm.c
+END
+ipcns_notifier.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/ipc/ipcns_notifier.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/ipc/Makefile
+END
+ipc_sysctl.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/ipc/ipc_sysctl.c
+END
+namespace.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/ipc/namespace.c
+END
+util.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/ipc/util.c
+END

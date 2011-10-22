@@ -1,0 +1,197 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/blackfin/kernel
+END
+irqchip.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/blackfin/kernel/irqchip.c
+END
+setup.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/blackfin/kernel/setup.c
+END
+bfin_dma_5xx.c
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/blackfin/kernel/bfin_dma_5xx.c
+END
+early_printk.c
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/blackfin/kernel/early_printk.c
+END
+bfin_ksyms.c
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/blackfin/kernel/bfin_ksyms.c
+END
+kgdb_test.c
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/blackfin/kernel/kgdb_test.c
+END
+kgdb.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/blackfin/kernel/kgdb.c
+END
+sys_bfin.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/blackfin/kernel/sys_bfin.c
+END
+process.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/blackfin/kernel/process.c
+END
+time-ts.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/blackfin/kernel/time-ts.c
+END
+ftrace-entry.S
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/blackfin/kernel/ftrace-entry.S
+END
+flat.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/blackfin/kernel/flat.c
+END
+asm-offsets.c
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/blackfin/kernel/asm-offsets.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/blackfin/kernel/Makefile
+END
+cplbinfo.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/blackfin/kernel/cplbinfo.c
+END
+time.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/blackfin/kernel/time.c
+END
+vmlinux.lds.S
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/blackfin/kernel/vmlinux.lds.S
+END
+ftrace.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/blackfin/kernel/ftrace.c
+END
+ipipe.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/blackfin/kernel/ipipe.c
+END
+shadow_console.c
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/blackfin/kernel/shadow_console.c
+END
+fixed_code.S
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/blackfin/kernel/fixed_code.S
+END
+signal.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/blackfin/kernel/signal.c
+END
+ptrace.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/blackfin/kernel/ptrace.c
+END
+entry.S
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/blackfin/kernel/entry.S
+END
+stacktrace.c
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/blackfin/kernel/stacktrace.c
+END
+module.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/blackfin/kernel/module.c
+END
+init_task.c
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/blackfin/kernel/init_task.c
+END
+traps.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/blackfin/kernel/traps.c
+END
+gptimers.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/blackfin/kernel/gptimers.c
+END
+reboot.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/blackfin/kernel/reboot.c
+END
+dma-mapping.c
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/blackfin/kernel/dma-mapping.c
+END
+bfin_gpio.c
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/blackfin/kernel/bfin_gpio.c
+END

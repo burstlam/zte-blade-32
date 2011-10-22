@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/sound/soc/au1x
+END
+Kconfig
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/sound/soc/au1x/Kconfig
+END
+psc-i2s.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/sound/soc/au1x/psc-i2s.c
+END
+sample-ac97.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/sound/soc/au1x/sample-ac97.c
+END
+psc-ac97.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/sound/soc/au1x/psc-ac97.c
+END
+dbdma2.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/sound/soc/au1x/dbdma2.c
+END
+psc.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/sound/soc/au1x/psc.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/sound/soc/au1x/Makefile
+END

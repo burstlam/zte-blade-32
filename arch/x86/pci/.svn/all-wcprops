@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/x86/pci
+END
+mmconfig_32.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/x86/pci/mmconfig_32.c
+END
+mmconfig-shared.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/x86/pci/mmconfig-shared.c
+END
+init.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/x86/pci/init.c
+END
+legacy.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/x86/pci/legacy.c
+END
+mmconfig_64.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/x86/pci/mmconfig_64.c
+END
+direct.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/x86/pci/direct.c
+END
+amd_bus.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/x86/pci/amd_bus.c
+END
+visws.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/x86/pci/visws.c
+END
+early.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/x86/pci/early.c
+END
+acpi.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/x86/pci/acpi.c
+END
+pcbios.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/x86/pci/pcbios.c
+END
+numaq_32.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/x86/pci/numaq_32.c
+END
+common.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/x86/pci/common.c
+END
+i386.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/x86/pci/i386.c
+END
+irq.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/x86/pci/irq.c
+END
+fixup.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/x86/pci/fixup.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/x86/pci/Makefile
+END
+olpc.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/x86/pci/olpc.c
+END

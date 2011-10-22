@@ -1,0 +1,161 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/drivers/staging/rt2870
+END
+mlme.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/drivers/staging/rt2870/mlme.h
+END
+Kconfig
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/drivers/staging/rt2870/Kconfig
+END
+2870_main_dev.c
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/drivers/staging/rt2870/2870_main_dev.c
+END
+rt_linux.c
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/drivers/staging/rt2870/rt_linux.c
+END
+ap.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/drivers/staging/rt2870/ap.h
+END
+rt_profile.c
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/drivers/staging/rt2870/rt_profile.c
+END
+rtmp_def.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/drivers/staging/rt2870/rtmp_def.h
+END
+aironet.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/drivers/staging/rt2870/aironet.h
+END
+spectrum.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/drivers/staging/rt2870/spectrum.h
+END
+rt_linux.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/drivers/staging/rt2870/rt_linux.h
+END
+rt2870.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/drivers/staging/rt2870/rt2870.h
+END
+rt_config.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/drivers/staging/rt2870/rt_config.h
+END
+oid.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/drivers/staging/rt2870/oid.h
+END
+sta_ioctl.c
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/drivers/staging/rt2870/sta_ioctl.c
+END
+dfs.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/drivers/staging/rt2870/dfs.h
+END
+rt28xx.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/drivers/staging/rt2870/rt28xx.h
+END
+TODO
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/drivers/staging/rt2870/TODO
+END
+spectrum_def.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/drivers/staging/rt2870/spectrum_def.h
+END
+rtmp_ckipmic.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/drivers/staging/rt2870/rtmp_ckipmic.h
+END
+rt_main_dev.c
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/drivers/staging/rt2870/rt_main_dev.c
+END
+rtmp.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/drivers/staging/rt2870/rtmp.h
+END
+rtmp_type.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/drivers/staging/rt2870/rtmp_type.h
+END
+md5.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/drivers/staging/rt2870/md5.h
+END
+chlist.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/drivers/staging/rt2870/chlist.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/drivers/staging/rt2870/Makefile
+END
+wpa.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/drivers/staging/rt2870/wpa.h
+END

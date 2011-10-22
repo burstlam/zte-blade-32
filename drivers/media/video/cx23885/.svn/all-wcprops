@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/drivers/media/video/cx23885
+END
+cx23885-i2c.c
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/drivers/media/video/cx23885/cx23885-i2c.c
+END
+Kconfig
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/drivers/media/video/cx23885/Kconfig
+END
+netup-init.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/drivers/media/video/cx23885/netup-init.h
+END
+cx23885-vbi.c
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/drivers/media/video/cx23885/cx23885-vbi.c
+END
+cx23885-reg.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/drivers/media/video/cx23885/cx23885-reg.h
+END
+cx23885-core.c
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/drivers/media/video/cx23885/cx23885-core.c
+END
+cx23885-cards.c
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/drivers/media/video/cx23885/cx23885-cards.c
+END
+netup-eeprom.c
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/drivers/media/video/cx23885/netup-eeprom.c
+END
+cimax2.c
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/drivers/media/video/cx23885/cimax2.c
+END
+netup-eeprom.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/drivers/media/video/cx23885/netup-eeprom.h
+END
+cx23885-video.c
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/drivers/media/video/cx23885/cx23885-video.c
+END
+cimax2.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/drivers/media/video/cx23885/cimax2.h
+END
+cx23885.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/drivers/media/video/cx23885/cx23885.h
+END
+netup-init.c
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/drivers/media/video/cx23885/netup-init.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/drivers/media/video/cx23885/Makefile
+END
+cx23885-dvb.c
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/drivers/media/video/cx23885/cx23885-dvb.c
+END
+cx23885-417.c
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/drivers/media/video/cx23885/cx23885-417.c
+END

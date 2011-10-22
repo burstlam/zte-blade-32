@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/sound/pcmcia/pdaudiocf
+END
+pdaudiocf.c
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/sound/pcmcia/pdaudiocf/pdaudiocf.c
+END
+pdaudiocf.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/sound/pcmcia/pdaudiocf/pdaudiocf.h
+END
+pdaudiocf_core.c
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/sound/pcmcia/pdaudiocf/pdaudiocf_core.c
+END
+pdaudiocf_irq.c
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/sound/pcmcia/pdaudiocf/pdaudiocf_irq.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/sound/pcmcia/pdaudiocf/Makefile
+END
+pdaudiocf_pcm.c
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/sound/pcmcia/pdaudiocf/pdaudiocf_pcm.c
+END

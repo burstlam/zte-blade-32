@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/arm/mach-msm/include/mach/qdsp5
+END
+qdsp5vfecmdi.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/arm/mach-msm/include/mach/qdsp5/qdsp5vfecmdi.h
+END
+qdsp5vdeccmdi.h
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/arm/mach-msm/include/mach/qdsp5/qdsp5vdeccmdi.h
+END
+qdsp5audppmsg.h
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/arm/mach-msm/include/mach/qdsp5/qdsp5audppmsg.h
+END
+qdsp5jpegcmdi.h
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/arm/mach-msm/include/mach/qdsp5/qdsp5jpegcmdi.h
+END
+qdsp5lpmcmdi.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/arm/mach-msm/include/mach/qdsp5/qdsp5lpmcmdi.h
+END
+qdsp5vfemsg.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/arm/mach-msm/include/mach/qdsp5/qdsp5vfemsg.h
+END
+qdsp5venccmdi.h
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/arm/mach-msm/include/mach/qdsp5/qdsp5venccmdi.h
+END
+qdsp5vdecmsg.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/arm/mach-msm/include/mach/qdsp5/qdsp5vdecmsg.h
+END
+snd_adie.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/arm/mach-msm/include/mach/qdsp5/snd_adie.h
+END
+qdsp5jpegmsg.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/arm/mach-msm/include/mach/qdsp5/qdsp5jpegmsg.h
+END
+qdsp5audplaycmdi.h
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/arm/mach-msm/include/mach/qdsp5/qdsp5audplaycmdi.h
+END
+qdsp5lpmmsg.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/arm/mach-msm/include/mach/qdsp5/qdsp5lpmmsg.h
+END
+qdsp5audreccmdi.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/arm/mach-msm/include/mach/qdsp5/qdsp5audreccmdi.h
+END
+qdsp5audpreproccmdi.h
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/arm/mach-msm/include/mach/qdsp5/qdsp5audpreproccmdi.h
+END
+qdsp5audppcmdi.h
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/arm/mach-msm/include/mach/qdsp5/qdsp5audppcmdi.h
+END
+qdsp5audplaymsg.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/arm/mach-msm/include/mach/qdsp5/qdsp5audplaymsg.h
+END
+qdsp5audrecmsg.h
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/arm/mach-msm/include/mach/qdsp5/qdsp5audrecmsg.h
+END
+qdsp5audpreprocmsg.h
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/arm/mach-msm/include/mach/qdsp5/qdsp5audpreprocmsg.h
+END

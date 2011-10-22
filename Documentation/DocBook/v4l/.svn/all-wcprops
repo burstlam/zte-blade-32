@@ -1,0 +1,641 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/Documentation/DocBook/v4l
+END
+vidioc-g-priority.xml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/Documentation/DocBook/v4l/vidioc-g-priority.xml
+END
+remote_controllers.xml
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/Documentation/DocBook/v4l/remote_controllers.xml
+END
+pixfmt-uyvy.xml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/Documentation/DocBook/v4l/pixfmt-uyvy.xml
+END
+capture.c.xml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/Documentation/DocBook/v4l/capture.c.xml
+END
+vidioc-g-ext-ctrls.xml
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/Documentation/DocBook/v4l/vidioc-g-ext-ctrls.xml
+END
+vbi_625.pdf
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/Documentation/DocBook/v4l/vbi_625.pdf
+END
+vidioc-enum-framesizes.xml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/Documentation/DocBook/v4l/vidioc-enum-framesizes.xml
+END
+func-munmap.xml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/Documentation/DocBook/v4l/func-munmap.xml
+END
+dev-codec.xml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/Documentation/DocBook/v4l/dev-codec.xml
+END
+vidioc-g-std.xml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/Documentation/DocBook/v4l/vidioc-g-std.xml
+END
+fieldseq_bt.pdf
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/Documentation/DocBook/v4l/fieldseq_bt.pdf
+END
+vidioc-encoder-cmd.xml
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/Documentation/DocBook/v4l/vidioc-encoder-cmd.xml
+END
+vidioc-querystd.xml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/Documentation/DocBook/v4l/vidioc-querystd.xml
+END
+vidioc-g-parm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/Documentation/DocBook/v4l/vidioc-g-parm.xml
+END
+vidioc-enum-frameintervals.xml
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/Documentation/DocBook/v4l/vidioc-enum-frameintervals.xml
+END
+vidioc-enumoutput.xml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/Documentation/DocBook/v4l/vidioc-enumoutput.xml
+END
+pixfmt-y41p.xml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/Documentation/DocBook/v4l/pixfmt-y41p.xml
+END
+vidioc-cropcap.xml
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/Documentation/DocBook/v4l/vidioc-cropcap.xml
+END
+vidioc-g-crop.xml
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/Documentation/DocBook/v4l/vidioc-g-crop.xml
+END
+func-ioctl.xml
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/Documentation/DocBook/v4l/func-ioctl.xml
+END
+vidioc-g-jpegcomp.xml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/Documentation/DocBook/v4l/vidioc-g-jpegcomp.xml
+END
+v4l2grab.c.xml
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/Documentation/DocBook/v4l/v4l2grab.c.xml
+END
+pixfmt-packed-rgb.xml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/Documentation/DocBook/v4l/pixfmt-packed-rgb.xml
+END
+dev-rds.xml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/Documentation/DocBook/v4l/dev-rds.xml
+END
+vidioc-querycap.xml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/Documentation/DocBook/v4l/vidioc-querycap.xml
+END
+vidioc-g-modulator.xml
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/Documentation/DocBook/v4l/vidioc-g-modulator.xml
+END
+pixfmt.xml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/Documentation/DocBook/v4l/pixfmt.xml
+END
+fdl-appendix.xml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/Documentation/DocBook/v4l/fdl-appendix.xml
+END
+vidioc-dbg-g-chip-ident.xml
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/Documentation/DocBook/v4l/vidioc-dbg-g-chip-ident.xml
+END
+vidioc-dbg-g-register.xml
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/Documentation/DocBook/v4l/vidioc-dbg-g-register.xml
+END
+pixfmt-yuv420.xml
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/Documentation/DocBook/v4l/pixfmt-yuv420.xml
+END
+dev-capture.xml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/Documentation/DocBook/v4l/dev-capture.xml
+END
+vbi_525.gif
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/Documentation/DocBook/v4l/vbi_525.gif
+END
+pixfmt-yvyu.xml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/Documentation/DocBook/v4l/pixfmt-yvyu.xml
+END
+keytable.c.xml
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/Documentation/DocBook/v4l/keytable.c.xml
+END
+vidioc-reqbufs.xml
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/Documentation/DocBook/v4l/vidioc-reqbufs.xml
+END
+fieldseq_tb.gif
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/Documentation/DocBook/v4l/fieldseq_tb.gif
+END
+vidioc-overlay.xml
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/Documentation/DocBook/v4l/vidioc-overlay.xml
+END
+dev-overlay.xml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/Documentation/DocBook/v4l/dev-overlay.xml
+END
+pixfmt-yuv422p.xml
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/Documentation/DocBook/v4l/pixfmt-yuv422p.xml
+END
+dev-osd.xml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/Documentation/DocBook/v4l/dev-osd.xml
+END
+func-read.xml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/Documentation/DocBook/v4l/func-read.xml
+END
+vidioc-queryctrl.xml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/Documentation/DocBook/v4l/vidioc-queryctrl.xml
+END
+dev-effect.xml
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/Documentation/DocBook/v4l/dev-effect.xml
+END
+crop.gif
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/Documentation/DocBook/v4l/crop.gif
+END
+func-select.xml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/Documentation/DocBook/v4l/func-select.xml
+END
+vidioc-g-enc-index.xml
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/Documentation/DocBook/v4l/vidioc-g-enc-index.xml
+END
+dev-teletext.xml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/Documentation/DocBook/v4l/dev-teletext.xml
+END
+pixfmt-grey.xml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/Documentation/DocBook/v4l/pixfmt-grey.xml
+END
+pixfmt-packed-yuv.xml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/Documentation/DocBook/v4l/pixfmt-packed-yuv.xml
+END
+videodev2.h.xml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/Documentation/DocBook/v4l/videodev2.h.xml
+END
+vidioc-log-status.xml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/Documentation/DocBook/v4l/vidioc-log-status.xml
+END
+pixfmt-vyuy.xml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/Documentation/DocBook/v4l/pixfmt-vyuy.xml
+END
+func-write.xml
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/Documentation/DocBook/v4l/func-write.xml
+END
+dev-raw-vbi.xml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/Documentation/DocBook/v4l/dev-raw-vbi.xml
+END
+compat.xml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/Documentation/DocBook/v4l/compat.xml
+END
+vbi_525.pdf
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/Documentation/DocBook/v4l/vbi_525.pdf
+END
+common.xml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/Documentation/DocBook/v4l/common.xml
+END
+vbi_hsync.gif
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/Documentation/DocBook/v4l/vbi_hsync.gif
+END
+fieldseq_tb.pdf
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/Documentation/DocBook/v4l/fieldseq_tb.pdf
+END
+pixfmt-yuv411p.xml
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/Documentation/DocBook/v4l/pixfmt-yuv411p.xml
+END
+func-close.xml
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/Documentation/DocBook/v4l/func-close.xml
+END
+vidioc-g-input.xml
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/Documentation/DocBook/v4l/vidioc-g-input.xml
+END
+vidioc-g-output.xml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/Documentation/DocBook/v4l/vidioc-g-output.xml
+END
+vidioc-g-audio.xml
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/Documentation/DocBook/v4l/vidioc-g-audio.xml
+END
+pixfmt-sgrbg8.xml
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/Documentation/DocBook/v4l/pixfmt-sgrbg8.xml
+END
+pixfmt-sgbrg8.xml
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/Documentation/DocBook/v4l/pixfmt-sgbrg8.xml
+END
+pixfmt-sbggr8.xml
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/Documentation/DocBook/v4l/pixfmt-sbggr8.xml
+END
+vidioc-enum-fmt.xml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/Documentation/DocBook/v4l/vidioc-enum-fmt.xml
+END
+io.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/Documentation/DocBook/v4l/io.xml
+END
+vidioc-qbuf.xml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/Documentation/DocBook/v4l/vidioc-qbuf.xml
+END
+dev-radio.xml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/Documentation/DocBook/v4l/dev-radio.xml
+END
+crop.pdf
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/Documentation/DocBook/v4l/crop.pdf
+END
+vidioc-querybuf.xml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/Documentation/DocBook/v4l/vidioc-querybuf.xml
+END
+pixfmt-sbggr16.xml
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/Documentation/DocBook/v4l/pixfmt-sbggr16.xml
+END
+vbi_625.gif
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/Documentation/DocBook/v4l/vbi_625.gif
+END
+pixfmt-yuyv.xml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/Documentation/DocBook/v4l/pixfmt-yuyv.xml
+END
+vidioc-g-fbuf.xml
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/Documentation/DocBook/v4l/vidioc-g-fbuf.xml
+END
+vidioc-g-sliced-vbi-cap.xml
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/Documentation/DocBook/v4l/vidioc-g-sliced-vbi-cap.xml
+END
+func-mmap.xml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/Documentation/DocBook/v4l/func-mmap.xml
+END
+pixfmt-y16.xml
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/Documentation/DocBook/v4l/pixfmt-y16.xml
+END
+vidioc-g-fmt.xml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/Documentation/DocBook/v4l/vidioc-g-fmt.xml
+END
+fieldseq_bt.gif
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/Documentation/DocBook/v4l/fieldseq_bt.gif
+END
+v4l2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/Documentation/DocBook/v4l/v4l2.xml
+END
+vidioc-g-audioout.xml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/Documentation/DocBook/v4l/vidioc-g-audioout.xml
+END
+vidioc-enumaudioout.xml
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/Documentation/DocBook/v4l/vidioc-enumaudioout.xml
+END
+func-open.xml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/Documentation/DocBook/v4l/func-open.xml
+END
+vidioc-enumstd.xml
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/Documentation/DocBook/v4l/vidioc-enumstd.xml
+END
+pixfmt-nv12.xml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/Documentation/DocBook/v4l/pixfmt-nv12.xml
+END
+driver.xml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/Documentation/DocBook/v4l/driver.xml
+END
+libv4l.xml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/Documentation/DocBook/v4l/libv4l.xml
+END
+vidioc-g-tuner.xml
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/Documentation/DocBook/v4l/vidioc-g-tuner.xml
+END
+dev-sliced-vbi.xml
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/Documentation/DocBook/v4l/dev-sliced-vbi.xml
+END
+vbi_hsync.pdf
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/Documentation/DocBook/v4l/vbi_hsync.pdf
+END
+pixfmt-nv16.xml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/Documentation/DocBook/v4l/pixfmt-nv16.xml
+END
+func-poll.xml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/Documentation/DocBook/v4l/func-poll.xml
+END
+vidioc-enuminput.xml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/Documentation/DocBook/v4l/vidioc-enuminput.xml
+END
+biblio.xml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/Documentation/DocBook/v4l/biblio.xml
+END
+vidioc-g-frequency.xml
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/Documentation/DocBook/v4l/vidioc-g-frequency.xml
+END
+vidioc-enumaudio.xml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/Documentation/DocBook/v4l/vidioc-enumaudio.xml
+END
+controls.xml
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/Documentation/DocBook/v4l/controls.xml
+END
+vidioc-g-ctrl.xml
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/Documentation/DocBook/v4l/vidioc-g-ctrl.xml
+END
+vidioc-streamon.xml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/Documentation/DocBook/v4l/vidioc-streamon.xml
+END
+vidioc-s-hw-freq-seek.xml
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/Documentation/DocBook/v4l/vidioc-s-hw-freq-seek.xml
+END
+dev-output.xml
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/Documentation/DocBook/v4l/dev-output.xml
+END
+pixfmt-yuv410.xml
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/Documentation/DocBook/v4l/pixfmt-yuv410.xml
+END

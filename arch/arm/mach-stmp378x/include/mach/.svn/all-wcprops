@@ -1,0 +1,227 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/arm/mach-stmp378x/include/mach
+END
+regs-bch.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/arm/mach-stmp378x/include/mach/regs-bch.h
+END
+regs-clkctrl.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/arm/mach-stmp378x/include/mach/regs-clkctrl.h
+END
+regs-dcp.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/arm/mach-stmp378x/include/mach/regs-dcp.h
+END
+regs-digctl.h
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/arm/mach-stmp378x/include/mach/regs-digctl.h
+END
+regs-pxp.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/arm/mach-stmp378x/include/mach/regs-pxp.h
+END
+regs-emi.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/arm/mach-stmp378x/include/mach/regs-emi.h
+END
+pins.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/arm/mach-stmp378x/include/mach/pins.h
+END
+regs-uartapp.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/arm/mach-stmp378x/include/mach/regs-uartapp.h
+END
+regs-sydma.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/arm/mach-stmp378x/include/mach/regs-sydma.h
+END
+regs-timrot.h
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/arm/mach-stmp378x/include/mach/regs-timrot.h
+END
+regs-tvenc.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/arm/mach-stmp378x/include/mach/regs-tvenc.h
+END
+irqs.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/arm/mach-stmp378x/include/mach/irqs.h
+END
+regs-saif.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/arm/mach-stmp378x/include/mach/regs-saif.h
+END
+regs-ecc8.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/arm/mach-stmp378x/include/mach/regs-ecc8.h
+END
+regs-power.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/arm/mach-stmp378x/include/mach/regs-power.h
+END
+regs-gpmi.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/arm/mach-stmp378x/include/mach/regs-gpmi.h
+END
+regs-icoll.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/arm/mach-stmp378x/include/mach/regs-icoll.h
+END
+regs-pwm.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/arm/mach-stmp378x/include/mach/regs-pwm.h
+END
+regs-ssp.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/arm/mach-stmp378x/include/mach/regs-ssp.h
+END
+regs-spdif.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/arm/mach-stmp378x/include/mach/regs-spdif.h
+END
+regs-ir.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/arm/mach-stmp378x/include/mach/regs-ir.h
+END
+regs-apbh.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/arm/mach-stmp378x/include/mach/regs-apbh.h
+END
+regs-usbphy.h
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/arm/mach-stmp378x/include/mach/regs-usbphy.h
+END
+regs-pinctrl.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/arm/mach-stmp378x/include/mach/regs-pinctrl.h
+END
+regs-i2c.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/arm/mach-stmp378x/include/mach/regs-i2c.h
+END
+entry-macro.S
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/arm/mach-stmp378x/include/mach/entry-macro.S
+END
+regs-dri.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/arm/mach-stmp378x/include/mach/regs-dri.h
+END
+regs-usbctrl.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/arm/mach-stmp378x/include/mach/regs-usbctrl.h
+END
+regs-lcdif.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/arm/mach-stmp378x/include/mach/regs-lcdif.h
+END
+regs-dram.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/arm/mach-stmp378x/include/mach/regs-dram.h
+END
+regs-ocotp.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/arm/mach-stmp378x/include/mach/regs-ocotp.h
+END
+regs-lradc.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/arm/mach-stmp378x/include/mach/regs-lradc.h
+END
+regs-rtc.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/arm/mach-stmp378x/include/mach/regs-rtc.h
+END
+regs-audioin.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/arm/mach-stmp378x/include/mach/regs-audioin.h
+END
+regs-uartdbg.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/arm/mach-stmp378x/include/mach/regs-uartdbg.h
+END
+regs-audioout.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/arm/mach-stmp378x/include/mach/regs-audioout.h
+END
+regs-apbx.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/arm/mach-stmp378x/include/mach/regs-apbx.h
+END

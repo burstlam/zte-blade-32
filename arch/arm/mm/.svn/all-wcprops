@@ -1,0 +1,527 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/arm/mm
+END
+proc-arm1020.S
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/arm/mm/proc-arm1020.S
+END
+init.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/arm/mm/init.c
+END
+proc-arm1022.S
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/arm/mm/proc-arm1022.S
+END
+proc-sa110.S
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/arm/mm/proc-sa110.S
+END
+proc-mohawk.S
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/arm/mm/proc-mohawk.S
+END
+abort-ev5t.S
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/arm/mm/abort-ev5t.S
+END
+proc-arm1026.S
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/arm/mm/proc-arm1026.S
+END
+copypage-v4wt.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/arm/mm/copypage-v4wt.c
+END
+fault.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/arm/mm/fault.c
+END
+abort-lv4t.S
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/arm/mm/abort-lv4t.S
+END
+vcm_mm.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/arm/mm/vcm_mm.c
+END
+fault.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/arm/mm/fault.h
+END
+flush.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/arm/mm/flush.c
+END
+tlb-v4wb.S
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/arm/mm/tlb-v4wb.S
+END
+abort-ev5tj.S
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/arm/mm/abort-ev5tj.S
+END
+extable.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/arm/mm/extable.c
+END
+cache-l2x0.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/arm/mm/cache-l2x0.c
+END
+abort-macro.S
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/arm/mm/abort-macro.S
+END
+proc-sa1100.S
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/arm/mm/proc-sa1100.S
+END
+tlb-v3.S
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/arm/mm/tlb-v3.S
+END
+proc-arm720.S
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/arm/mm/proc-arm720.S
+END
+proc-arm920.S
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/arm/mm/proc-arm920.S
+END
+copypage-fa.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/arm/mm/copypage-fa.c
+END
+tlb-v7.S
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/arm/mm/tlb-v7.S
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/arm/mm/Makefile
+END
+proc-syms.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/arm/mm/proc-syms.c
+END
+proc-arm922.S
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/arm/mm/proc-arm922.S
+END
+vcm_alloc.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/arm/mm/vcm_alloc.c
+END
+pabort-v6.S
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/arm/mm/pabort-v6.S
+END
+proc-arm926.S
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/arm/mm/proc-arm926.S
+END
+proc-xsc3.S
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/arm/mm/proc-xsc3.S
+END
+cache-v4wb.S
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/arm/mm/cache-v4wb.S
+END
+proc-fa526.S
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/arm/mm/proc-fa526.S
+END
+copypage-feroceon.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/arm/mm/copypage-feroceon.c
+END
+abort-ev4t.S
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/arm/mm/abort-ev4t.S
+END
+proc-arm1020e.S
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/arm/mm/proc-arm1020e.S
+END
+pabort-legacy.S
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/arm/mm/pabort-legacy.S
+END
+cache-v3.S
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/arm/mm/cache-v3.S
+END
+pgd.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/arm/mm/pgd.c
+END
+cache-v7.S
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/arm/mm/cache-v7.S
+END
+proc-v7.S
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/arm/mm/proc-v7.S
+END
+fault-armv.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/arm/mm/fault-armv.c
+END
+abort-ev4.S
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/arm/mm/abort-ev4.S
+END
+copypage-xscale.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/arm/mm/copypage-xscale.c
+END
+abort-ev6.S
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/arm/mm/abort-ev6.S
+END
+cache-v4wt.S
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/arm/mm/cache-v4wt.S
+END
+tlb-fa.S
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/arm/mm/tlb-fa.S
+END
+dma-mapping.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/arm/mm/dma-mapping.c
+END
+mmu.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/arm/mm/mmu.c
+END
+Kconfig
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/arm/mm/Kconfig
+END
+copypage-v6.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/arm/mm/copypage-v6.c
+END
+proc-arm7tdmi.S
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/arm/mm/proc-arm7tdmi.S
+END
+cache-fa.S
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/arm/mm/cache-fa.S
+END
+proc-arm9tdmi.S
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/arm/mm/proc-arm9tdmi.S
+END
+mm.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/arm/mm/mm.h
+END
+alignment.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/arm/mm/alignment.c
+END
+cache-xsc3l2.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/arm/mm/cache-xsc3l2.c
+END
+abort-nommu.S
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/arm/mm/abort-nommu.S
+END
+proc-feroceon.S
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/arm/mm/proc-feroceon.S
+END
+tlb-v4.S
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/arm/mm/tlb-v4.S
+END
+tlb-v6.S
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/arm/mm/tlb-v6.S
+END
+proc-arm740.S
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/arm/mm/proc-arm740.S
+END
+ioremap.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/arm/mm/ioremap.c
+END
+proc-arm940.S
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/arm/mm/proc-arm940.S
+END
+proc-arm925.S
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/arm/mm/proc-arm925.S
+END
+proc-xscale.S
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/arm/mm/proc-xscale.S
+END
+pabort-v7.S
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/arm/mm/pabort-v7.S
+END
+proc-arm946.S
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/arm/mm/proc-arm946.S
+END
+iomap.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/arm/mm/iomap.c
+END
+proc-macros.S
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/arm/mm/proc-macros.S
+END
+cache-v4.S
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/arm/mm/cache-v4.S
+END
+proc-arm6_7.S
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/arm/mm/proc-arm6_7.S
+END
+cache-feroceon-l2.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/arm/mm/cache-feroceon-l2.c
+END
+cache-v6.S
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/arm/mm/cache-v6.S
+END
+proc-v6.S
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/arm/mm/proc-v6.S
+END
+highmem.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/arm/mm/highmem.c
+END
+copypage-v4mc.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/arm/mm/copypage-v4mc.c
+END
+discontig.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/arm/mm/discontig.c
+END
+context.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/arm/mm/context.c
+END
+copypage-xsc3.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/arm/mm/copypage-xsc3.c
+END
+vcm.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/arm/mm/vcm.c
+END
+abort-ev7.S
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/arm/mm/abort-ev7.S
+END
+copypage-v4wb.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/arm/mm/copypage-v4wb.c
+END
+mmap.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/arm/mm/mmap.c
+END
+tlb-v4wbi.S
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/arm/mm/tlb-v4wbi.S
+END
+nommu.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/arm/mm/nommu.c
+END
+copypage-v3.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/arm/mm/copypage-v3.c
+END

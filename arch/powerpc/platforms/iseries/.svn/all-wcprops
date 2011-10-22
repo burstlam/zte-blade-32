@@ -1,0 +1,233 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/powerpc/platforms/iseries
+END
+it_lp_naca.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/powerpc/platforms/iseries/it_lp_naca.h
+END
+Kconfig
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/powerpc/platforms/iseries/Kconfig
+END
+hvlpconfig.c
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/powerpc/platforms/iseries/hvlpconfig.c
+END
+smp.c
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/powerpc/platforms/iseries/smp.c
+END
+setup.c
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/powerpc/platforms/iseries/setup.c
+END
+lpevents.c
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/powerpc/platforms/iseries/lpevents.c
+END
+mf.c
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/powerpc/platforms/iseries/mf.c
+END
+smp.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/powerpc/platforms/iseries/smp.h
+END
+setup.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/powerpc/platforms/iseries/setup.h
+END
+ksyms.c
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/powerpc/platforms/iseries/ksyms.c
+END
+naca.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/powerpc/platforms/iseries/naca.h
+END
+vpd_areas.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/powerpc/platforms/iseries/vpd_areas.h
+END
+exception.S
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/powerpc/platforms/iseries/exception.S
+END
+htab.c
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/powerpc/platforms/iseries/htab.c
+END
+hvlog.c
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/powerpc/platforms/iseries/hvlog.c
+END
+hvcall.S
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/powerpc/platforms/iseries/hvcall.S
+END
+call_hpt.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/powerpc/platforms/iseries/call_hpt.h
+END
+irq.c
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/powerpc/platforms/iseries/irq.c
+END
+spcomm_area.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/powerpc/platforms/iseries/spcomm_area.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/powerpc/platforms/iseries/Makefile
+END
+processor_vpd.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/powerpc/platforms/iseries/processor_vpd.h
+END
+irq.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/powerpc/platforms/iseries/irq.h
+END
+proc.c
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/powerpc/platforms/iseries/proc.c
+END
+exception.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/powerpc/platforms/iseries/exception.h
+END
+main_store.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/powerpc/platforms/iseries/main_store.h
+END
+dt.c
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/powerpc/platforms/iseries/dt.c
+END
+viopath.c
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/powerpc/platforms/iseries/viopath.c
+END
+pci.c
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/powerpc/platforms/iseries/pci.c
+END
+misc.S
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/powerpc/platforms/iseries/misc.S
+END
+call_pci.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/powerpc/platforms/iseries/call_pci.h
+END
+release_data.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/powerpc/platforms/iseries/release_data.h
+END
+call_sm.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/powerpc/platforms/iseries/call_sm.h
+END
+pci.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/powerpc/platforms/iseries/pci.h
+END
+it_exp_vpd_panel.h
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/powerpc/platforms/iseries/it_exp_vpd_panel.h
+END
+iommu.c
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/powerpc/platforms/iseries/iommu.c
+END
+lpardata.c
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/powerpc/platforms/iseries/lpardata.c
+END
+ipl_parms.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/powerpc/platforms/iseries/ipl_parms.h
+END
+vio.c
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/powerpc/platforms/iseries/vio.c
+END

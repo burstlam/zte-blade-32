@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/fs/jbd
+END
+recovery.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/fs/jbd/recovery.c
+END
+Kconfig
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/fs/jbd/Kconfig
+END
+transaction.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/fs/jbd/transaction.c
+END
+checkpoint.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/fs/jbd/checkpoint.c
+END
+commit.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/fs/jbd/commit.c
+END
+journal.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/fs/jbd/journal.c
+END
+revoke.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/fs/jbd/revoke.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/fs/jbd/Makefile
+END

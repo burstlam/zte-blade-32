@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/mips/alchemy/devboards/pb1100
+END
+board_setup.c
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/mips/alchemy/devboards/pb1100/board_setup.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/mips/alchemy/devboards/pb1100/Makefile
+END

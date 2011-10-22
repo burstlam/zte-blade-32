@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/sound/arm
+END
+Kconfig
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/sound/arm/Kconfig
+END
+pxa2xx-ac97-lib.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/sound/arm/pxa2xx-ac97-lib.c
+END
+devdma.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/sound/arm/devdma.c
+END
+aaci.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/sound/arm/aaci.h
+END
+devdma.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/sound/arm/devdma.h
+END
+pxa2xx-pcm.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/sound/arm/pxa2xx-pcm.c
+END
+pxa2xx-ac97.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/sound/arm/pxa2xx-ac97.c
+END
+pxa2xx-pcm-lib.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/sound/arm/pxa2xx-pcm-lib.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/sound/arm/Makefile
+END
+pxa2xx-pcm.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/sound/arm/pxa2xx-pcm.h
+END
+aaci.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/sound/arm/aaci.c
+END

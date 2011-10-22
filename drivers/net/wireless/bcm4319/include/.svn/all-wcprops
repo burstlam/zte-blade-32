@@ -1,0 +1,293 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/drivers/net/wireless/bcm4319/include
+END
+dhdioctl.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/drivers/net/wireless/bcm4319/include/dhdioctl.h
+END
+sbconfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/drivers/net/wireless/bcm4319/include/sbconfig.h
+END
+sbsdpcmdev.h
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/drivers/net/wireless/bcm4319/include/sbsdpcmdev.h
+END
+hndpmu.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/drivers/net/wireless/bcm4319/include/hndpmu.h
+END
+siutils.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/drivers/net/wireless/bcm4319/include/siutils.h
+END
+osl.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/drivers/net/wireless/bcm4319/include/osl.h
+END
+sdio.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/drivers/net/wireless/bcm4319/include/sdio.h
+END
+spid.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/drivers/net/wireless/bcm4319/include/spid.h
+END
+bcmdefs.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/drivers/net/wireless/bcm4319/include/bcmdefs.h
+END
+bcmsdstd.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/drivers/net/wireless/bcm4319/include/bcmsdstd.h
+END
+bcmsdspi.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/drivers/net/wireless/bcm4319/include/bcmsdspi.h
+END
+msgtrace.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/drivers/net/wireless/bcm4319/include/msgtrace.h
+END
+sdioh.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/drivers/net/wireless/bcm4319/include/sdioh.h
+END
+sdiovar.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/drivers/net/wireless/bcm4319/include/sdiovar.h
+END
+bcmpcispi.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/drivers/net/wireless/bcm4319/include/bcmpcispi.h
+END
+bcmcdc.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/drivers/net/wireless/bcm4319/include/bcmcdc.h
+END
+epivers.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/drivers/net/wireless/bcm4319/include/epivers.h
+END
+bcmperf.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/drivers/net/wireless/bcm4319/include/bcmperf.h
+END
+miniopt.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/drivers/net/wireless/bcm4319/include/miniopt.h
+END
+bcmendian.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/drivers/net/wireless/bcm4319/include/bcmendian.h
+END
+sbhnddma.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/drivers/net/wireless/bcm4319/include/sbhnddma.h
+END
+bcmutils.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/drivers/net/wireless/bcm4319/include/bcmutils.h
+END
+bcmdevs.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/drivers/net/wireless/bcm4319/include/bcmdevs.h
+END
+bcmsdh_sdmmc.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/drivers/net/wireless/bcm4319/include/bcmsdh_sdmmc.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/drivers/net/wireless/bcm4319/include/Makefile
+END
+packed_section_start.h
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/drivers/net/wireless/bcm4319/include/packed_section_start.h
+END
+bcmsdpcm.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/drivers/net/wireless/bcm4319/include/bcmsdpcm.h
+END
+aidmp.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/drivers/net/wireless/bcm4319/include/aidmp.h
+END
+pcicfg.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/drivers/net/wireless/bcm4319/include/pcicfg.h
+END
+epivers.sh
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/drivers/net/wireless/bcm4319/include/epivers.sh
+END
+bcmsdh.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/drivers/net/wireless/bcm4319/include/bcmsdh.h
+END
+packed_section_end.h
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/drivers/net/wireless/bcm4319/include/packed_section_end.h
+END
+bcmsdbus.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/drivers/net/wireless/bcm4319/include/bcmsdbus.h
+END
+hndrte_cons.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/drivers/net/wireless/bcm4319/include/hndrte_cons.h
+END
+sbsocram.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/drivers/net/wireless/bcm4319/include/sbsocram.h
+END
+hndrte_armtrap.h
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/drivers/net/wireless/bcm4319/include/hndrte_armtrap.h
+END
+sbchipc.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/drivers/net/wireless/bcm4319/include/sbchipc.h
+END
+trxhdr.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/drivers/net/wireless/bcm4319/include/trxhdr.h
+END
+linuxver.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/drivers/net/wireless/bcm4319/include/linuxver.h
+END
+linux_osl.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/drivers/net/wireless/bcm4319/include/linux_osl.h
+END
+bcmspi.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/drivers/net/wireless/bcm4319/include/bcmspi.h
+END
+wlioctl.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/drivers/net/wireless/bcm4319/include/wlioctl.h
+END
+hndsoc.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/drivers/net/wireless/bcm4319/include/hndsoc.h
+END
+bcmwifi.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/drivers/net/wireless/bcm4319/include/bcmwifi.h
+END
+sbpcmcia.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/drivers/net/wireless/bcm4319/include/sbpcmcia.h
+END
+epivers.h.in
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/drivers/net/wireless/bcm4319/include/epivers.h.in
+END
+sbsdio.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/drivers/net/wireless/bcm4319/include/sbsdio.h
+END
+typedefs.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/drivers/net/wireless/bcm4319/include/typedefs.h
+END

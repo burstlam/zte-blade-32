@@ -1,0 +1,251 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/arm/mach-msm/qdsp5v2
+END
+audio_pcm.c
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/arm/mach-msm/qdsp5v2/audio_pcm.c
+END
+audio_dev_ctl.c
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/arm/mach-msm/qdsp5v2/audio_dev_ctl.c
+END
+audpreproc.c
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/arm/mach-msm/qdsp5v2/audpreproc.c
+END
+audio_wma.c
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/arm/mach-msm/qdsp5v2/audio_wma.c
+END
+audio_adpcm.c
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/arm/mach-msm/qdsp5v2/audio_adpcm.c
+END
+audio_evrc_in.c
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/arm/mach-msm/qdsp5v2/audio_evrc_in.c
+END
+audio_amrnb_in.c
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/arm/mach-msm/qdsp5v2/audio_amrnb_in.c
+END
+audpp.c
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/arm/mach-msm/qdsp5v2/audpp.c
+END
+lpa.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/arm/mach-msm/qdsp5v2/lpa.c
+END
+snddev_data.c
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/arm/mach-msm/qdsp5v2/snddev_data.c
+END
+pcm_funcs.c
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/arm/mach-msm/qdsp5v2/pcm_funcs.c
+END
+snddev_mi2s.c
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/arm/mach-msm/qdsp5v2/snddev_mi2s.c
+END
+audio_amrnb.c
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/arm/mach-msm/qdsp5v2/audio_amrnb.c
+END
+audio_evrc.c
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/arm/mach-msm/qdsp5v2/audio_evrc.c
+END
+audio_fm.c
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/arm/mach-msm/qdsp5v2/audio_fm.c
+END
+audio_qcelp.c
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/arm/mach-msm/qdsp5v2/audio_qcelp.c
+END
+audio_wmapro.c
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/arm/mach-msm/qdsp5v2/audio_wmapro.c
+END
+audio_out.c
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/arm/mach-msm/qdsp5v2/audio_out.c
+END
+audio_interct.c
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/arm/mach-msm/qdsp5v2/audio_interct.c
+END
+snddev_virtual.c
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/arm/mach-msm/qdsp5v2/snddev_virtual.c
+END
+aux_pcm.c
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/arm/mach-msm/qdsp5v2/aux_pcm.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/arm/mach-msm/qdsp5v2/Makefile
+END
+audio_lpa.c
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/arm/mach-msm/qdsp5v2/audio_lpa.c
+END
+audio_a2dp_in.c
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/arm/mach-msm/qdsp5v2/audio_a2dp_in.c
+END
+adsp_driver.c
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/arm/mach-msm/qdsp5v2/adsp_driver.c
+END
+adsp_info.c
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/arm/mach-msm/qdsp5v2/adsp_info.c
+END
+audio_aac.c
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/arm/mach-msm/qdsp5v2/audio_aac.c
+END
+voice.c
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/arm/mach-msm/qdsp5v2/voice.c
+END
+audio_acdb.c
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/arm/mach-msm/qdsp5v2/audio_acdb.c
+END
+mi2s.c
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/arm/mach-msm/qdsp5v2/mi2s.c
+END
+audio_qcelp_in.c
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/arm/mach-msm/qdsp5v2/audio_qcelp_in.c
+END
+audio_mp3.c
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/arm/mach-msm/qdsp5v2/audio_mp3.c
+END
+snddev_ecodec.c
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/arm/mach-msm/qdsp5v2/snddev_ecodec.c
+END
+audio_pcm_in.c
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/arm/mach-msm/qdsp5v2/audio_pcm_in.c
+END
+adsp.c
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/arm/mach-msm/qdsp5v2/adsp.c
+END
+audio_amrwb.c
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/arm/mach-msm/qdsp5v2/audio_amrwb.c
+END
+snddev_icodec.c
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/arm/mach-msm/qdsp5v2/snddev_icodec.c
+END
+afe.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/arm/mach-msm/qdsp5v2/afe.c
+END
+audio_aac_in.c
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/arm/mach-msm/qdsp5v2/audio_aac_in.c
+END
+adsp.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/arm/mach-msm/qdsp5v2/adsp.h
+END
+mp3_funcs.c
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/arm/mach-msm/qdsp5v2/mp3_funcs.c
+END

@@ -1,0 +1,215 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/powerpc/platforms/pseries
+END
+Kconfig
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/powerpc/platforms/pseries/Kconfig
+END
+smp.c
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/powerpc/platforms/pseries/smp.c
+END
+setup.c
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/powerpc/platforms/pseries/setup.c
+END
+eeh_event.c
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/powerpc/platforms/pseries/eeh_event.c
+END
+phyp_dump.c
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/powerpc/platforms/pseries/phyp_dump.c
+END
+plpar_wrappers.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/powerpc/platforms/pseries/plpar_wrappers.h
+END
+eeh_driver.c
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/powerpc/platforms/pseries/eeh_driver.c
+END
+firmware.c
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/powerpc/platforms/pseries/firmware.c
+END
+rtasd.c
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/powerpc/platforms/pseries/rtasd.c
+END
+pseries.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/powerpc/platforms/pseries/pseries.h
+END
+nvram.c
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/powerpc/platforms/pseries/nvram.c
+END
+dtl.c
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/powerpc/platforms/pseries/dtl.c
+END
+reconfig.c
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/powerpc/platforms/pseries/reconfig.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/powerpc/platforms/pseries/Makefile
+END
+pci_dlpar.c
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/powerpc/platforms/pseries/pci_dlpar.c
+END
+lpar.c
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/powerpc/platforms/pseries/lpar.c
+END
+kexec.c
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/powerpc/platforms/pseries/kexec.c
+END
+hvconsole.c
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/powerpc/platforms/pseries/hvconsole.c
+END
+eeh.c
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/powerpc/platforms/pseries/eeh.c
+END
+hvCall_inst.c
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/powerpc/platforms/pseries/hvCall_inst.c
+END
+xics.c
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/powerpc/platforms/pseries/xics.c
+END
+hotplug-cpu.c
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/powerpc/platforms/pseries/hotplug-cpu.c
+END
+hvcserver.c
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/powerpc/platforms/pseries/hvcserver.c
+END
+pci.c
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/powerpc/platforms/pseries/pci.c
+END
+xics.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/powerpc/platforms/pseries/xics.h
+END
+cmm.c
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/powerpc/platforms/pseries/cmm.c
+END
+eeh_cache.c
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/powerpc/platforms/pseries/eeh_cache.c
+END
+ras.c
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/powerpc/platforms/pseries/ras.c
+END
+scanlog.c
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/powerpc/platforms/pseries/scanlog.c
+END
+iommu.c
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/powerpc/platforms/pseries/iommu.c
+END
+msi.c
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/powerpc/platforms/pseries/msi.c
+END
+eeh_sysfs.c
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/powerpc/platforms/pseries/eeh_sysfs.c
+END
+hotplug-memory.c
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/powerpc/platforms/pseries/hotplug-memory.c
+END
+hvCall.S
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/powerpc/platforms/pseries/hvCall.S
+END
+power.c
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/powerpc/platforms/pseries/power.c
+END

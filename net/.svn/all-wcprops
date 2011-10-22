@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/net
+END
+Kconfig
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/net/Kconfig
+END
+compat.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/net/compat.c
+END
+nonet.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/net/nonet.c
+END
+sysctl_net.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/net/sysctl_net.c
+END
+socket.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/net/socket.c
+END
+TUNABLE
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/net/TUNABLE
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/net/Makefile
+END

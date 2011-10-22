@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/fs/adfs
+END
+dir.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/fs/adfs/dir.c
+END
+inode.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/fs/adfs/inode.c
+END
+super.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/fs/adfs/super.c
+END
+Kconfig
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/fs/adfs/Kconfig
+END
+file.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/fs/adfs/file.c
+END
+adfs.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/fs/adfs/adfs.h
+END
+dir_f.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/fs/adfs/dir_f.c
+END
+dir_fplus.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/fs/adfs/dir_fplus.c
+END
+dir_f.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/fs/adfs/dir_f.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/fs/adfs/Makefile
+END
+dir_fplus.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/fs/adfs/dir_fplus.h
+END
+map.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/fs/adfs/map.c
+END

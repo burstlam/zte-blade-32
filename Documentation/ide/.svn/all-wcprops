@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/Documentation/ide
+END
+ide.txt
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/Documentation/ide/ide.txt
+END
+ChangeLog.ide-cd.1994-2004
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/Documentation/ide/ChangeLog.ide-cd.1994-2004
+END
+00-INDEX
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/Documentation/ide/00-INDEX
+END
+ChangeLog.ide-tape.1995-2002
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/Documentation/ide/ChangeLog.ide-tape.1995-2002
+END
+ChangeLog.ide-floppy.1996-2002
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/Documentation/ide/ChangeLog.ide-floppy.1996-2002
+END
+ide-tape.txt
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/Documentation/ide/ide-tape.txt
+END
+warm-plug-howto.txt
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/Documentation/ide/warm-plug-howto.txt
+END

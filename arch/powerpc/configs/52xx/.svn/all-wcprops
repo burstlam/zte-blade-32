@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/powerpc/configs/52xx
+END
+pcm030_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/powerpc/configs/52xx/pcm030_defconfig
+END
+cm5200_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/powerpc/configs/52xx/cm5200_defconfig
+END
+lite5200b_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/powerpc/configs/52xx/lite5200b_defconfig
+END
+motionpro_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/powerpc/configs/52xx/motionpro_defconfig
+END
+tqm5200_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/powerpc/configs/52xx/tqm5200_defconfig
+END

@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/drivers/staging/rtl8192su/ieee80211
+END
+ieee80211_crypt_wep.c
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/drivers/staging/rtl8192su/ieee80211/ieee80211_crypt_wep.c
+END
+ieee80211_r8192s.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/drivers/staging/rtl8192su/ieee80211/ieee80211_r8192s.h
+END
+dot11d.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/drivers/staging/rtl8192su/ieee80211/dot11d.h
+END
+rtl819x_BA.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/drivers/staging/rtl8192su/ieee80211/rtl819x_BA.h
+END
+rtl819x_TS.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/drivers/staging/rtl8192su/ieee80211/rtl819x_TS.h
+END
+ieee80211_module.c
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/drivers/staging/rtl8192su/ieee80211/ieee80211_module.c
+END
+ieee80211.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/drivers/staging/rtl8192su/ieee80211/ieee80211.h
+END
+rtl819x_HTProc.c
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/drivers/staging/rtl8192su/ieee80211/rtl819x_HTProc.c
+END
+ieee80211_crypt_tkip.c
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/drivers/staging/rtl8192su/ieee80211/ieee80211_crypt_tkip.c
+END
+ieee80211_rx.c
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/drivers/staging/rtl8192su/ieee80211/ieee80211_rx.c
+END
+readme
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/drivers/staging/rtl8192su/ieee80211/readme
+END
+ieee80211_tx.c
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/drivers/staging/rtl8192su/ieee80211/ieee80211_tx.c
+END
+ieee80211_softmac.c
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/drivers/staging/rtl8192su/ieee80211/ieee80211_softmac.c
+END
+ieee80211_wx.c
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/drivers/staging/rtl8192su/ieee80211/ieee80211_wx.c
+END
+rtl819x_BAProc.c
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/drivers/staging/rtl8192su/ieee80211/rtl819x_BAProc.c
+END
+rtl819x_Qos.h
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/drivers/staging/rtl8192su/ieee80211/rtl819x_Qos.h
+END
+ieee80211_crypt.c
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/drivers/staging/rtl8192su/ieee80211/ieee80211_crypt.c
+END
+rtl819x_TSProc.c
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/drivers/staging/rtl8192su/ieee80211/rtl819x_TSProc.c
+END
+ieee80211_crypt_ccmp.c
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/drivers/staging/rtl8192su/ieee80211/ieee80211_crypt_ccmp.c
+END
+ieee80211_crypt.h
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/drivers/staging/rtl8192su/ieee80211/ieee80211_crypt.h
+END
+rtl819x_HT.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/drivers/staging/rtl8192su/ieee80211/rtl819x_HT.h
+END
+dot11d.c
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/drivers/staging/rtl8192su/ieee80211/dot11d.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/drivers/staging/rtl8192su/ieee80211/Makefile
+END
+ieee80211_softmac_wx.c
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/drivers/staging/rtl8192su/ieee80211/ieee80211_softmac_wx.c
+END

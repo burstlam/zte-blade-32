@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/Documentation/ABI/removed
+END
+devfs
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/Documentation/ABI/removed/devfs
+END
+raw1394_legacy_isochronous
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/Documentation/ABI/removed/raw1394_legacy_isochronous
+END

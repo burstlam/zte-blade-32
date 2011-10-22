@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/Documentation/powerpc/dts-bindings/fsl/cpm_qe/qe
+END
+pincfg.txt
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/Documentation/powerpc/dts-bindings/fsl/cpm_qe/qe/pincfg.txt
+END
+par_io.txt
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/Documentation/powerpc/dts-bindings/fsl/cpm_qe/qe/par_io.txt
+END
+usb.txt
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/Documentation/powerpc/dts-bindings/fsl/cpm_qe/qe/usb.txt
+END
+ucc.txt
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/Documentation/powerpc/dts-bindings/fsl/cpm_qe/qe/ucc.txt
+END
+firmware.txt
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/Documentation/powerpc/dts-bindings/fsl/cpm_qe/qe/firmware.txt
+END

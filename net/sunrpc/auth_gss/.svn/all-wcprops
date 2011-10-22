@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/net/sunrpc/auth_gss
+END
+gss_spkm3_mech.c
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/net/sunrpc/auth_gss/gss_spkm3_mech.c
+END
+gss_krb5_seqnum.c
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/net/sunrpc/auth_gss/gss_krb5_seqnum.c
+END
+gss_krb5_wrap.c
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/net/sunrpc/auth_gss/gss_krb5_wrap.c
+END
+gss_spkm3_token.c
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/net/sunrpc/auth_gss/gss_spkm3_token.c
+END
+gss_mech_switch.c
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/net/sunrpc/auth_gss/gss_mech_switch.c
+END
+gss_krb5_mech.c
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/net/sunrpc/auth_gss/gss_krb5_mech.c
+END
+gss_spkm3_seal.c
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/net/sunrpc/auth_gss/gss_spkm3_seal.c
+END
+auth_gss.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/net/sunrpc/auth_gss/auth_gss.c
+END
+gss_krb5_crypto.c
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/net/sunrpc/auth_gss/gss_krb5_crypto.c
+END
+gss_spkm3_unseal.c
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/net/sunrpc/auth_gss/gss_spkm3_unseal.c
+END
+gss_krb5_seal.c
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/net/sunrpc/auth_gss/gss_krb5_seal.c
+END
+gss_krb5_unseal.c
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/net/sunrpc/auth_gss/gss_krb5_unseal.c
+END
+gss_generic_token.c
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/net/sunrpc/auth_gss/gss_generic_token.c
+END
+svcauth_gss.c
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/net/sunrpc/auth_gss/svcauth_gss.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/net/sunrpc/auth_gss/Makefile
+END

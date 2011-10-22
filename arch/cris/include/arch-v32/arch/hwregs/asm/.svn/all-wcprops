@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/cris/include/arch-v32/arch/hwregs/asm
+END
+ser_defs_asm.h
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/cris/include/arch-v32/arch/hwregs/asm/ser_defs_asm.h
+END
+bif_slave_defs_asm.h
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/cris/include/arch-v32/arch/hwregs/asm/bif_slave_defs_asm.h
+END
+intr_vect.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/cris/include/arch-v32/arch/hwregs/asm/intr_vect.h
+END
+intr_vect_defs_asm.h
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/cris/include/arch-v32/arch/hwregs/asm/intr_vect_defs_asm.h
+END
+mmu_defs_asm.h
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/cris/include/arch-v32/arch/hwregs/asm/mmu_defs_asm.h
+END
+irq_nmi_defs_asm.h
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/cris/include/arch-v32/arch/hwregs/asm/irq_nmi_defs_asm.h
+END
+cris_defs_asm.h
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/cris/include/arch-v32/arch/hwregs/asm/cris_defs_asm.h
+END
+dma_defs_asm.h
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/cris/include/arch-v32/arch/hwregs/asm/dma_defs_asm.h
+END
+mmu_supp_reg.h
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/cris/include/arch-v32/arch/hwregs/asm/mmu_supp_reg.h
+END
+strmux_defs_asm.h
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/cris/include/arch-v32/arch/hwregs/asm/strmux_defs_asm.h
+END
+cris_supp_reg.h
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/cris/include/arch-v32/arch/hwregs/asm/cris_supp_reg.h
+END
+rt_trace_defs_asm.h
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/cris/include/arch-v32/arch/hwregs/asm/rt_trace_defs_asm.h
+END
+config_defs_asm.h
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/cris/include/arch-v32/arch/hwregs/asm/config_defs_asm.h
+END
+ata_defs_asm.h
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/cris/include/arch-v32/arch/hwregs/asm/ata_defs_asm.h
+END
+cpu_vect.h
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/cris/include/arch-v32/arch/hwregs/asm/cpu_vect.h
+END
+bif_core_defs_asm.h
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/cris/include/arch-v32/arch/hwregs/asm/bif_core_defs_asm.h
+END
+strcop_defs_asm.h
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/cris/include/arch-v32/arch/hwregs/asm/strcop_defs_asm.h
+END
+sser_defs_asm.h
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/cris/include/arch-v32/arch/hwregs/asm/sser_defs_asm.h
+END
+gio_defs_asm.h
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/cris/include/arch-v32/arch/hwregs/asm/gio_defs_asm.h
+END
+eth_defs_asm.h
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/cris/include/arch-v32/arch/hwregs/asm/eth_defs_asm.h
+END
+timer_defs_asm.h
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/cris/include/arch-v32/arch/hwregs/asm/timer_defs_asm.h
+END
+marb_defs_asm.h
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/cris/include/arch-v32/arch/hwregs/asm/marb_defs_asm.h
+END
+bif_dma_defs_asm.h
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/cris/include/arch-v32/arch/hwregs/asm/bif_dma_defs_asm.h
+END

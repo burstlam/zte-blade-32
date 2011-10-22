@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel
+END
+AndroidKernel.mk
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/AndroidKernel.mk
+END
+REPORTING-BUGS
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/REPORTING-BUGS
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/COPYING
+END
+MAINTAINERS
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/MAINTAINERS
+END
+Kbuild
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/Kbuild
+END
+CREDITS
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/CREDITS
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/README
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/Makefile
+END
+.mailmap
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/.mailmap
+END

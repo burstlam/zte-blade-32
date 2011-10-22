@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/mips/include/asm/mach-tx49xx
+END
+war.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/mips/include/asm/mach-tx49xx/war.h
+END
+ioremap.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/mips/include/asm/mach-tx49xx/ioremap.h
+END
+cpu-feature-overrides.h
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/mips/include/asm/mach-tx49xx/cpu-feature-overrides.h
+END
+kmalloc.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/mips/include/asm/mach-tx49xx/kmalloc.h
+END
+mangle-port.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/mips/include/asm/mach-tx49xx/mangle-port.h
+END

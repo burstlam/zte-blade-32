@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/powerpc/configs/83xx
+END
+mpc832x_rdb_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/powerpc/configs/83xx/mpc832x_rdb_defconfig
+END
+mpc836x_mds_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/powerpc/configs/83xx/mpc836x_mds_defconfig
+END
+mpc837x_mds_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/powerpc/configs/83xx/mpc837x_mds_defconfig
+END
+sbc834x_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/powerpc/configs/83xx/sbc834x_defconfig
+END
+mpc837x_rdb_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/powerpc/configs/83xx/mpc837x_rdb_defconfig
+END
+mpc834x_itxgp_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/powerpc/configs/83xx/mpc834x_itxgp_defconfig
+END
+mpc8313_rdb_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/powerpc/configs/83xx/mpc8313_rdb_defconfig
+END
+mpc8315_rdb_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/powerpc/configs/83xx/mpc8315_rdb_defconfig
+END
+mpc832x_mds_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/powerpc/configs/83xx/mpc832x_mds_defconfig
+END
+kmeter1_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/powerpc/configs/83xx/kmeter1_defconfig
+END
+mpc836x_rdk_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/powerpc/configs/83xx/mpc836x_rdk_defconfig
+END
+asp8347_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/powerpc/configs/83xx/asp8347_defconfig
+END
+mpc834x_mds_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/powerpc/configs/83xx/mpc834x_mds_defconfig
+END
+mpc834x_itx_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/powerpc/configs/83xx/mpc834x_itx_defconfig
+END

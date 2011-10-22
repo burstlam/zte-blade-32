@@ -1,0 +1,161 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/arm/plat-s3c64xx/include/plat
+END
+gpio-bank-e.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/arm/plat-s3c64xx/include/plat/gpio-bank-e.h
+END
+regs-clock.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/arm/plat-s3c64xx/include/plat/regs-clock.h
+END
+gpio-bank-f.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/arm/plat-s3c64xx/include/plat/gpio-bank-f.h
+END
+gpio-bank-g.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/arm/plat-s3c64xx/include/plat/gpio-bank-g.h
+END
+gpio-bank-h.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/arm/plat-s3c64xx/include/plat/gpio-bank-h.h
+END
+regs-gpio.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/arm/plat-s3c64xx/include/plat/regs-gpio.h
+END
+gpio-bank-i.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/arm/plat-s3c64xx/include/plat/gpio-bank-i.h
+END
+gpio-bank-j.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/arm/plat-s3c64xx/include/plat/gpio-bank-j.h
+END
+dma-plat.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/arm/plat-s3c64xx/include/plat/dma-plat.h
+END
+regs-modem.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/arm/plat-s3c64xx/include/plat/regs-modem.h
+END
+gpio-bank-n.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/arm/plat-s3c64xx/include/plat/gpio-bank-n.h
+END
+pm-core.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/arm/plat-s3c64xx/include/plat/pm-core.h
+END
+s3c6400.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/arm/plat-s3c64xx/include/plat/s3c6400.h
+END
+gpio-bank-o.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/arm/plat-s3c64xx/include/plat/gpio-bank-o.h
+END
+s3c6410.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/arm/plat-s3c64xx/include/plat/s3c6410.h
+END
+gpio-bank-p.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/arm/plat-s3c64xx/include/plat/gpio-bank-p.h
+END
+gpio-bank-q.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/arm/plat-s3c64xx/include/plat/gpio-bank-q.h
+END
+regs-syscon-power.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/arm/plat-s3c64xx/include/plat/regs-syscon-power.h
+END
+regs-sys.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/arm/plat-s3c64xx/include/plat/regs-sys.h
+END
+regs-gpio-memport.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/arm/plat-s3c64xx/include/plat/regs-gpio-memport.h
+END
+irqs.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/arm/plat-s3c64xx/include/plat/irqs.h
+END
+gpio-bank-a.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/arm/plat-s3c64xx/include/plat/gpio-bank-a.h
+END
+gpio-bank-b.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/arm/plat-s3c64xx/include/plat/gpio-bank-b.h
+END
+gpio-bank-c.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/arm/plat-s3c64xx/include/plat/gpio-bank-c.h
+END
+pll.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/arm/plat-s3c64xx/include/plat/pll.h
+END
+gpio-bank-d.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/arm/plat-s3c64xx/include/plat/gpio-bank-d.h
+END

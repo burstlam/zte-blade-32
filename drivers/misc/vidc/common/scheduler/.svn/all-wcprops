@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/drivers/misc/vidc/common/scheduler
+END
+vid_frame_scheduler.h
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/drivers/misc/vidc/common/scheduler/vid_frame_scheduler.h
+END
+vid_frame_scheduler_utils.h
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/drivers/misc/vidc/common/scheduler/vid_frame_scheduler_utils.h
+END
+vid_frame_scheduler_api.c
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/drivers/misc/vidc/common/scheduler/vid_frame_scheduler_api.c
+END
+vid_frame_scheduler_api.h
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/drivers/misc/vidc/common/scheduler/vid_frame_scheduler_api.h
+END
+vid_frame_scheduler.c
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/drivers/misc/vidc/common/scheduler/vid_frame_scheduler.c
+END
+vid_frame_scheduler_utils.c
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/drivers/misc/vidc/common/scheduler/vid_frame_scheduler_utils.c
+END

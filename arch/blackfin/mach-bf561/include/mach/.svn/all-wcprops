@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/blackfin/mach-bf561/include/mach
+END
+blackfin.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/blackfin/mach-bf561/include/mach/blackfin.h
+END
+irq.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/blackfin/mach-bf561/include/mach/irq.h
+END
+mem_map.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/blackfin/mach-bf561/include/mach/mem_map.h
+END
+gpio.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/blackfin/mach-bf561/include/mach/gpio.h
+END
+portmux.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/blackfin/mach-bf561/include/mach/portmux.h
+END
+smp.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/blackfin/mach-bf561/include/mach/smp.h
+END
+anomaly.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/blackfin/mach-bf561/include/mach/anomaly.h
+END
+bfin_serial_5xx.h
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/blackfin/mach-bf561/include/mach/bfin_serial_5xx.h
+END
+dma.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/blackfin/mach-bf561/include/mach/dma.h
+END
+defBF561.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/blackfin/mach-bf561/include/mach/defBF561.h
+END
+bf561.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/blackfin/mach-bf561/include/mach/bf561.h
+END
+cdefBF561.h
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/blackfin/mach-bf561/include/mach/cdefBF561.h
+END

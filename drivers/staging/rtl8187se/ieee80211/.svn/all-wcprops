@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/drivers/staging/rtl8187se/ieee80211
+END
+ieee80211_tx.c
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/drivers/staging/rtl8187se/ieee80211/ieee80211_tx.c
+END
+ieee80211_crypt_wep.c
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/drivers/staging/rtl8187se/ieee80211/ieee80211_crypt_wep.c
+END
+ieee80211_softmac.c
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/drivers/staging/rtl8187se/ieee80211/ieee80211_softmac.c
+END
+dot11d.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/drivers/staging/rtl8187se/ieee80211/dot11d.h
+END
+ieee80211_wx.c
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/drivers/staging/rtl8187se/ieee80211/ieee80211_wx.c
+END
+ieee80211_crypt.c
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/drivers/staging/rtl8187se/ieee80211/ieee80211_crypt.c
+END
+ieee80211_crypt_ccmp.c
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/drivers/staging/rtl8187se/ieee80211/ieee80211_crypt_ccmp.c
+END
+ieee80211.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/drivers/staging/rtl8187se/ieee80211/ieee80211.h
+END
+ieee80211_module.c
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/drivers/staging/rtl8187se/ieee80211/ieee80211_module.c
+END
+ieee80211_crypt.h
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/drivers/staging/rtl8187se/ieee80211/ieee80211_crypt.h
+END
+ieee80211_crypt_tkip.c
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/drivers/staging/rtl8187se/ieee80211/ieee80211_crypt_tkip.c
+END
+dot11d.c
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/drivers/staging/rtl8187se/ieee80211/dot11d.c
+END
+ieee80211_rx.c
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/drivers/staging/rtl8187se/ieee80211/ieee80211_rx.c
+END
+ieee80211_softmac_wx.c
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/drivers/staging/rtl8187se/ieee80211/ieee80211_softmac_wx.c
+END

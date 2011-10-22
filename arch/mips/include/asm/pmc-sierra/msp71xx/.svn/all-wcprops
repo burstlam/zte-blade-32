@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/mips/include/asm/pmc-sierra/msp71xx
+END
+msp_int.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/mips/include/asm/pmc-sierra/msp71xx/msp_int.h
+END
+war.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/mips/include/asm/pmc-sierra/msp71xx/war.h
+END
+msp_pci.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/mips/include/asm/pmc-sierra/msp71xx/msp_pci.h
+END
+msp_prom.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/mips/include/asm/pmc-sierra/msp71xx/msp_prom.h
+END
+gpio.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/mips/include/asm/pmc-sierra/msp71xx/gpio.h
+END
+msp_regops.h
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/mips/include/asm/pmc-sierra/msp71xx/msp_regops.h
+END
+msp_regs.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/mips/include/asm/pmc-sierra/msp71xx/msp_regs.h
+END
+msp_cic_int.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/mips/include/asm/pmc-sierra/msp71xx/msp_cic_int.h
+END
+msp_slp_int.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/mips/include/asm/pmc-sierra/msp71xx/msp_slp_int.h
+END

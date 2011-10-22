@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/firmware/ess
+END
+maestro3_assp_kernel.fw.ihex
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/firmware/ess/maestro3_assp_kernel.fw.ihex
+END
+maestro3_assp_minisrc.fw.ihex
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/firmware/ess/maestro3_assp_minisrc.fw.ihex
+END

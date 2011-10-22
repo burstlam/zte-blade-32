@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/firmware/sb16
+END
+ima_adpcm_playback.csp.ihex
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/firmware/sb16/ima_adpcm_playback.csp.ihex
+END
+alaw_main.csp.ihex
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/firmware/sb16/alaw_main.csp.ihex
+END
+mulaw_main.csp.ihex
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/firmware/sb16/mulaw_main.csp.ihex
+END
+ima_adpcm_capture.csp.ihex
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/firmware/sb16/ima_adpcm_capture.csp.ihex
+END
+ima_adpcm_init.csp.ihex
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/firmware/sb16/ima_adpcm_init.csp.ihex
+END

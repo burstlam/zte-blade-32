@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/Documentation/powerpc/dts-bindings/fsl
+END
+msi-pic.txt
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/Documentation/powerpc/dts-bindings/fsl/msi-pic.txt
+END
+dma.txt
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/Documentation/powerpc/dts-bindings/fsl/dma.txt
+END
+sec.txt
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/Documentation/powerpc/dts-bindings/fsl/sec.txt
+END
+mcm.txt
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/Documentation/powerpc/dts-bindings/fsl/mcm.txt
+END
+i2c.txt
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/Documentation/powerpc/dts-bindings/fsl/i2c.txt
+END
+pmc.txt
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/Documentation/powerpc/dts-bindings/fsl/pmc.txt
+END
+upm-nand.txt
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/Documentation/powerpc/dts-bindings/fsl/upm-nand.txt
+END
+83xx-512x-pci.txt
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/Documentation/powerpc/dts-bindings/fsl/83xx-512x-pci.txt
+END
+diu.txt
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/Documentation/powerpc/dts-bindings/fsl/diu.txt
+END
+guts.txt
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/Documentation/powerpc/dts-bindings/fsl/guts.txt
+END
+mpc5200.txt
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/Documentation/powerpc/dts-bindings/fsl/mpc5200.txt
+END
+esdhc.txt
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/Documentation/powerpc/dts-bindings/fsl/esdhc.txt
+END
+gtm.txt
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/Documentation/powerpc/dts-bindings/fsl/gtm.txt
+END
+board.txt
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/Documentation/powerpc/dts-bindings/fsl/board.txt
+END
+sata.txt
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/Documentation/powerpc/dts-bindings/fsl/sata.txt
+END
+usb.txt
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/Documentation/powerpc/dts-bindings/fsl/usb.txt
+END
+spi.txt
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/Documentation/powerpc/dts-bindings/fsl/spi.txt
+END
+8xxx_gpio.txt
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/Documentation/powerpc/dts-bindings/fsl/8xxx_gpio.txt
+END
+ssi.txt
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/Documentation/powerpc/dts-bindings/fsl/ssi.txt
+END
+tsec.txt
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/Documentation/powerpc/dts-bindings/fsl/tsec.txt
+END
+mcu-mpc8349emitx.txt
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/Documentation/powerpc/dts-bindings/fsl/mcu-mpc8349emitx.txt
+END
+lbc.txt
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/Documentation/powerpc/dts-bindings/fsl/lbc.txt
+END

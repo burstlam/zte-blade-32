@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/Documentation/networking/mac80211_hwsim
+END
+hostapd.conf
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/Documentation/networking/mac80211_hwsim/hostapd.conf
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/Documentation/networking/mac80211_hwsim/README
+END
+wpa_supplicant.conf
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/Documentation/networking/mac80211_hwsim/wpa_supplicant.conf
+END

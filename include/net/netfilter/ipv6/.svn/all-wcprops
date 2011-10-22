@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/include/net/netfilter/ipv6
+END
+nf_conntrack_icmpv6.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/include/net/netfilter/ipv6/nf_conntrack_icmpv6.h
+END
+nf_conntrack_ipv6.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/include/net/netfilter/ipv6/nf_conntrack_ipv6.h
+END

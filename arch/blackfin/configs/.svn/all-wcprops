@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/blackfin/configs
+END
+BF538-EZKIT_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/blackfin/configs/BF538-EZKIT_defconfig
+END
+H8606_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/blackfin/configs/H8606_defconfig
+END
+BF548-EZKIT_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/blackfin/configs/BF548-EZKIT_defconfig
+END
+CM-BF533_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/blackfin/configs/CM-BF533_defconfig
+END
+CM-BF561_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/blackfin/configs/CM-BF561_defconfig
+END
+IP0X_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/blackfin/configs/IP0X_defconfig
+END
+BlackStamp_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/blackfin/configs/BlackStamp_defconfig
+END
+CM-BF527_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/blackfin/configs/CM-BF527_defconfig
+END
+PNAV-10_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/blackfin/configs/PNAV-10_defconfig
+END
+CM-BF548_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/blackfin/configs/CM-BF548_defconfig
+END
+CM-BF537E_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/blackfin/configs/CM-BF537E_defconfig
+END
+BF526-EZBRD_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/blackfin/configs/BF526-EZBRD_defconfig
+END
+SRV1_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/blackfin/configs/SRV1_defconfig
+END
+BF518F-EZBRD_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/blackfin/configs/BF518F-EZBRD_defconfig
+END
+BF533-STAMP_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/blackfin/configs/BF533-STAMP_defconfig
+END
+BF533-EZKIT_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/blackfin/configs/BF533-EZKIT_defconfig
+END
+BF561-EZKIT_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/blackfin/configs/BF561-EZKIT_defconfig
+END
+TCM-BF537_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/blackfin/configs/TCM-BF537_defconfig
+END
+CM-BF537U_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/blackfin/configs/CM-BF537U_defconfig
+END
+BF537-STAMP_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/blackfin/configs/BF537-STAMP_defconfig
+END
+BF527-EZKIT_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/blackfin/configs/BF527-EZKIT_defconfig
+END

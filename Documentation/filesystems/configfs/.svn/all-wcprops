@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/Documentation/filesystems/configfs
+END
+configfs_example_explicit.c
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/Documentation/filesystems/configfs/configfs_example_explicit.c
+END
+configfs.txt
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/Documentation/filesystems/configfs/configfs.txt
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/Documentation/filesystems/configfs/Makefile
+END
+configfs_example_macros.c
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/Documentation/filesystems/configfs/configfs_example_macros.c
+END

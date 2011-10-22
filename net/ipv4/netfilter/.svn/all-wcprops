@@ -1,0 +1,287 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/net/ipv4/netfilter
+END
+Kconfig
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/net/ipv4/netfilter/Kconfig
+END
+arptable_filter.c
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/net/ipv4/netfilter/arptable_filter.c
+END
+nf_conntrack_proto_icmp.c
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/net/ipv4/netfilter/nf_conntrack_proto_icmp.c
+END
+ipt_NETMAP.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/net/ipv4/netfilter/ipt_NETMAP.c
+END
+nf_nat_proto_udp.c
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/net/ipv4/netfilter/nf_nat_proto_udp.c
+END
+nf_nat_irc.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/net/ipv4/netfilter/nf_nat_irc.c
+END
+nf_nat_helper.c
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/net/ipv4/netfilter/nf_nat_helper.c
+END
+ipt_ah.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/net/ipv4/netfilter/ipt_ah.c
+END
+nf_nat_amanda.c
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/net/ipv4/netfilter/nf_nat_amanda.c
+END
+iptable_security.c
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/net/ipv4/netfilter/iptable_security.c
+END
+nf_defrag_ipv4.c
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/net/ipv4/netfilter/nf_defrag_ipv4.c
+END
+ipt_REDIRECT.c
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/net/ipv4/netfilter/ipt_REDIRECT.c
+END
+nf_nat_standalone.c
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/net/ipv4/netfilter/nf_nat_standalone.c
+END
+nf_nat_ftp.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/net/ipv4/netfilter/nf_nat_ftp.c
+END
+ipt_ECN.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/net/ipv4/netfilter/ipt_ECN.c
+END
+nf_nat_proto_sctp.c
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/net/ipv4/netfilter/nf_nat_proto_sctp.c
+END
+ipt_ULOG.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/net/ipv4/netfilter/ipt_ULOG.c
+END
+ipt_addrtype.c
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/net/ipv4/netfilter/ipt_addrtype.c
+END
+nf_conntrack_l3proto_ipv4.c
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/net/ipv4/netfilter/nf_conntrack_l3proto_ipv4.c
+END
+nf_conntrack_l3proto_ipv4_compat.c
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/net/ipv4/netfilter/nf_conntrack_l3proto_ipv4_compat.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/net/ipv4/netfilter/Makefile
+END
+nf_nat_rule.c
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/net/ipv4/netfilter/nf_nat_rule.c
+END
+ipt_LOG.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/net/ipv4/netfilter/ipt_LOG.c
+END
+nf_nat_proto_tcp.c
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/net/ipv4/netfilter/nf_nat_proto_tcp.c
+END
+nf_nat_proto_common.c
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/net/ipv4/netfilter/nf_nat_proto_common.c
+END
+nf_nat_proto_icmp.c
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/net/ipv4/netfilter/nf_nat_proto_icmp.c
+END
+ip_tables.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/net/ipv4/netfilter/ip_tables.c
+END
+nf_nat_tftp.c
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/net/ipv4/netfilter/nf_nat_tftp.c
+END
+iptable_mangle.c
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/net/ipv4/netfilter/iptable_mangle.c
+END
+ipt_MASQUERADE.c
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/net/ipv4/netfilter/ipt_MASQUERADE.c
+END
+nf_nat_snmp_basic.c
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/net/ipv4/netfilter/nf_nat_snmp_basic.c
+END
+nf_nat_h323.c
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/net/ipv4/netfilter/nf_nat_h323.c
+END
+nf_nat_proto_unknown.c
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/net/ipv4/netfilter/nf_nat_proto_unknown.c
+END
+nf_nat_pptp.c
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/net/ipv4/netfilter/nf_nat_pptp.c
+END
+arp_tables.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/net/ipv4/netfilter/arp_tables.c
+END
+ip_queue.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/net/ipv4/netfilter/ip_queue.c
+END
+nf_nat_core.c
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/net/ipv4/netfilter/nf_nat_core.c
+END
+nf_nat_proto_udplite.c
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/net/ipv4/netfilter/nf_nat_proto_udplite.c
+END
+nf_nat_sip.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/net/ipv4/netfilter/nf_nat_sip.c
+END
+ipt_ecn.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/net/ipv4/netfilter/ipt_ecn.c
+END
+nf_nat_proto_dccp.c
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/net/ipv4/netfilter/nf_nat_proto_dccp.c
+END
+iptable_filter.c
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/net/ipv4/netfilter/iptable_filter.c
+END
+nf_nat_proto_gre.c
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/net/ipv4/netfilter/nf_nat_proto_gre.c
+END
+ipt_CLUSTERIP.c
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/net/ipv4/netfilter/ipt_CLUSTERIP.c
+END
+ipt_REJECT.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/net/ipv4/netfilter/ipt_REJECT.c
+END
+iptable_raw.c
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/net/ipv4/netfilter/iptable_raw.c
+END
+arpt_mangle.c
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/net/ipv4/netfilter/arpt_mangle.c
+END

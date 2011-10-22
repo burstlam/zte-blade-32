@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/drivers/misc/vidc/720p/ddl
+END
+vcd_ddl_helper.c
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/drivers/misc/vidc/720p/ddl/vcd_ddl_helper.c
+END
+vcd_ddl_metadata.c
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/drivers/misc/vidc/720p/ddl/vcd_ddl_metadata.c
+END
+vcd_ddl.c
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/drivers/misc/vidc/720p/ddl/vcd_ddl.c
+END
+vcd_ddl_firmware.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/drivers/misc/vidc/720p/ddl/vcd_ddl_firmware.h
+END
+vcd_ddl_metadata.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/drivers/misc/vidc/720p/ddl/vcd_ddl_metadata.h
+END
+vcd_ddl_internal_property.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/drivers/misc/vidc/720p/ddl/vcd_ddl_internal_property.h
+END
+vcd_ddl.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/drivers/misc/vidc/720p/ddl/vcd_ddl.h
+END
+vcd_ddl_interrupt_handler.c
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/drivers/misc/vidc/720p/ddl/vcd_ddl_interrupt_handler.c
+END
+vcd_ddl_properties.c
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/drivers/misc/vidc/720p/ddl/vcd_ddl_properties.c
+END
+vcd_ddl_core.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/drivers/misc/vidc/720p/ddl/vcd_ddl_core.h
+END
+vcd_ddl_utils.c
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/drivers/misc/vidc/720p/ddl/vcd_ddl_utils.c
+END
+vcd_ddl_hal.c
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/drivers/misc/vidc/720p/ddl/vcd_ddl_hal.c
+END
+vcd_ddl_utils.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/drivers/misc/vidc/720p/ddl/vcd_ddl_utils.h
+END
+vidc.c
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/drivers/misc/vidc/720p/ddl/vidc.c
+END
+vidc.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/drivers/misc/vidc/720p/ddl/vidc.h
+END
+vcd_ddl_firmware.c
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/drivers/misc/vidc/720p/ddl/vcd_ddl_firmware.c
+END
+vcd_ddl_errors.c
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/drivers/misc/vidc/720p/ddl/vcd_ddl_errors.c
+END
+vcd_ddl_api.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/drivers/misc/vidc/720p/ddl/vcd_ddl_api.h
+END

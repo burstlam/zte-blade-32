@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/scripts/rt-tester
+END
+t3-l2-pi.tst
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/scripts/rt-tester/t3-l2-pi.tst
+END
+rt-tester.py
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/scripts/rt-tester/rt-tester.py
+END
+t2-l2-2rt-deadlock.tst
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/scripts/rt-tester/t2-l2-2rt-deadlock.tst
+END
+t3-l1-pi-1rt.tst
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/scripts/rt-tester/t3-l1-pi-1rt.tst
+END
+t2-l1-signal.tst
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/scripts/rt-tester/t2-l1-signal.tst
+END
+t3-l1-pi-2rt.tst
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/scripts/rt-tester/t3-l1-pi-2rt.tst
+END
+t3-l1-pi-steal.tst
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/scripts/rt-tester/t3-l1-pi-steal.tst
+END
+t3-l1-pi-3rt.tst
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/scripts/rt-tester/t3-l1-pi-3rt.tst
+END
+t3-l1-pi-signal.tst
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/scripts/rt-tester/t3-l1-pi-signal.tst
+END
+t2-l1-2rt-sameprio.tst
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/scripts/rt-tester/t2-l1-2rt-sameprio.tst
+END
+check-all.sh
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/scripts/rt-tester/check-all.sh
+END
+t5-l4-pi-boost-deboost.tst
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/scripts/rt-tester/t5-l4-pi-boost-deboost.tst
+END
+t5-l4-pi-boost-deboost-setsched.tst
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/scripts/rt-tester/t5-l4-pi-boost-deboost-setsched.tst
+END
+t4-l2-pi-deboost.tst
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/scripts/rt-tester/t4-l2-pi-deboost.tst
+END
+t2-l1-pi.tst
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/scripts/rt-tester/t2-l1-pi.tst
+END

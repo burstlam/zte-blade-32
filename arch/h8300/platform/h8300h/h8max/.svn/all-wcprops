@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/h8300/platform/h8300h/h8max
+END
+crt0_ram.S
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/h8300/platform/h8300h/h8max/crt0_ram.S
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/h8300/platform/h8300h/h8max/Makefile
+END

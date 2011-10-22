@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/cris/include/arch-v32/mach-a3/mach/hwregs
+END
+reg_map.h
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/cris/include/arch-v32/mach-a3/mach/hwregs/reg_map.h
+END
+ddr2_defs.h
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/cris/include/arch-v32/mach-a3/mach/hwregs/ddr2_defs.h
+END
+intr_vect.h
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/cris/include/arch-v32/mach-a3/mach/hwregs/intr_vect.h
+END
+intr_vect_defs.h
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/cris/include/arch-v32/mach-a3/mach/hwregs/intr_vect_defs.h
+END
+gio_defs.h
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/cris/include/arch-v32/mach-a3/mach/hwregs/gio_defs.h
+END
+pinmux_defs.h
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/cris/include/arch-v32/mach-a3/mach/hwregs/pinmux_defs.h
+END
+timer_defs.h
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/cris/include/arch-v32/mach-a3/mach/hwregs/timer_defs.h
+END
+l2cache_defs.h
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/cris/include/arch-v32/mach-a3/mach/hwregs/l2cache_defs.h
+END
+strmux_defs.h
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/cris/include/arch-v32/mach-a3/mach/hwregs/strmux_defs.h
+END
+clkgen_defs.h
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/cris/include/arch-v32/mach-a3/mach/hwregs/clkgen_defs.h
+END
+marb_foo_defs.h
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/cris/include/arch-v32/mach-a3/mach/hwregs/marb_foo_defs.h
+END
+marb_bar_defs.h
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/cris/include/arch-v32/mach-a3/mach/hwregs/marb_bar_defs.h
+END
+pio_defs.h
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/7x27-Froyo/!svn/ver/26750/labels/V9_GENERICV1.0.0B06_boot/kernel/arch/cris/include/arch-v32/mach-a3/mach/hwregs/pio_defs.h
+END
