@@ -969,7 +969,7 @@ static void lcdc_lead_init(void)
 	gpio_lcd_lead_emuspi_write_cmd(0x2900,0x00);
 
 	/*
-	gpio_lcd_lead_emuspi_write_one_index(0x2E80,0x00);//0x01 MTP ����
+	gpio_lcd_lead_emuspi_write_one_index(0x2E80,0x00);//0x01 MTP
 	mdelay(120);
 	gpio_lcd_lead_emuspi_write_one_index(0x0680,0x30);
 	gpio_lcd_lead_emuspi_write_one_index(0xD380,0x05);
@@ -1677,5 +1677,4 @@ static int __init lcdc_oled_panel_init(void)
 }
 
 module_init(lcdc_oled_panel_init);
-
 
